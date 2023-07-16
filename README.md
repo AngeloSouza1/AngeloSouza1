@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Aluno FullCycle
+
 
 <div align="center">
   <a href="https://github.com/AngeloSouza1">
