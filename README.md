@@ -7,9 +7,6 @@ class Programmer
 ```
 
 
-
-
-
  <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
 
 <h3 align="left">Languages and Tools:</h3>
