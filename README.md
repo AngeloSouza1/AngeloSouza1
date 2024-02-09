@@ -32,8 +32,6 @@ Estou comprometido em compreender profundamente as necessidades dos usuários e 
 Estou em constante busca por conhecimento e aperfeiçoamento, prontamente disponível para enfrentar novos desafios e aplicar técnicas cada vez mais avançadas em meus projetos.
 
 
-
-
 <h2 id="metricas-e-resultados">Métricas e Resultados</h2>
 <div style="text-align: center;">
     <div style="display: inline-block;">
@@ -47,6 +45,13 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
     </a>
 </p>
+
+<br>
+<br>
+<br>
+
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
+
 
 
 <h2 id="linguagens">Linguagens</h2>
@@ -70,6 +75,13 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 ![AWS](https://img.shields.io/badge/-AWS-37474f?&logo=Amazon-AWS&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-212121?&logo=JetBrains&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0288d1?&logo=Visual-Studio-Code&logoColor=white) 
+
+<br>
+<br>
+<br>
+<br>
+
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
 
@@ -97,6 +109,13 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 ![AWS](https://img.shields.io/badge/-AWS-37474f?&logo=Amazon-AWS&logoColor=37474f)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-212121?&logo=JetBrains&logoColor=212121)
 ![VSCode](https://img.shields.io/badge/-VSCode-0288d1?&logo=Visual-Studio-Code&logoColor=0288d1)</p>
+<br>
+<br>
+<br>
+<br>
+
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
+
 
 
 
@@ -104,6 +123,12 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 
 
 [![](https://img.shields.io/badge/-🎟️%20Ticket%20Event-1976d2)](https://github.com/desenvolvendo-me/ticket-event)
+
+<br>
+<br>
+<br>
+
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
 <h2 id="principais-repositorios">Principais Repositórios</h2>
@@ -117,7 +142,9 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 [![](https://img.shields.io/badge/-🛡%20TT%204-616161)](https://github.com/AngeloSouza1/TT4)
 [![](https://img.shields.io/badge/-🌐%20TT%205-f57c00)](https://github.com/AngeloSouza1/TT5)</p>
 <br>
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="30">](#top)
+<br>
+<br>
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
 
@@ -140,7 +167,7 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
   <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
 </p>
 
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="30">](#top)
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
 
