@@ -31,6 +31,11 @@ Estou comprometido em compreender profundamente as necessidades dos usuários e 
 
 Estou em constante busca por conhecimento e aperfeiçoamento, prontamente disponível para enfrentar novos desafios e aplicar técnicas cada vez mais avançadas em meus projetos.
 
+<br>
+<br>
+<br>
+
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 <h2 id="metricas-e-resultados">Métricas e Resultados</h2>
 <div style="text-align: center;">
