@@ -14,9 +14,11 @@
  <a href="#contato">Contate me!</a> • 
 </div>
 
-<div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=angelosouza1&color=yellow" alt="Visualizações no Perfil" /> </p>
+<div align="center">
+     <img src="https://komarev.com/ghpvc/?username=angelosouza1&color=yellow" alt="Visualizações no Perfil" />
 </div>
+
+
 
 <h2 id="sobre-mim">Sobre mim</h2>
 
