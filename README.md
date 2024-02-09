@@ -116,15 +116,12 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 [![](https://img.shields.io/badge/-💉%20TT%203-8e24aa)](https://github.com/AngeloSouza1/TT3)
 [![](https://img.shields.io/badge/-🛡%20TT%204-616161)](https://github.com/AngeloSouza1/TT4)
 [![](https://img.shields.io/badge/-🌐%20TT%205-f57c00)](https://github.com/AngeloSouza1/TT5)</p>
-
-
-
-
 <br>
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="30">](#top)
+
+
 
 <h2 id="contato">Contate me!</h2>
-
-
 <p align="center" >
 </a>
 <a href="https://www.linkedin.com/in/angeloafsouza/" target="_blank">
@@ -143,9 +140,9 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
   <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
 </p>
 
+[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="30">](#top)
 
- <a href="#top">top</a>
 
- [<img src="https://https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="50">](#top)
+
 
 
