@@ -1,7 +1,7 @@
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/AngeloSouza1/tmp/main/capa.gif" alt="fig1">
-</div>
+<p align="center">
+  <img src="https://github.com/AngeloSouza1/tmp/raw/main/capa.gif" alt="Descrição da imagem">
+</p>
 
 <div>
 <p align="center">
@@ -35,24 +35,19 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 
 
 <h2 id="metricas-e-resultados">Métricas e Resultados</h2>
-
-
-
 <div style="text-align: center;">
-  
-<a>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=angelosouza1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosouza1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&icon_color=fff&bg_color=000000" />
-</a>
-<p>
-
+    <div style="display: inline-block;">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=angelosouza1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosouza1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&icon_color=fff&bg_color=000000" />
+    </div>
+</div>
 
 <p align="center">
-  <a href="https://wakatime.com/@AAFS1981">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
-  </a>
+    <a href="https://wakatime.com/@AAFS1981">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
+    </a>
 </p>
-</div>
+
 
 <h2 id="linguagens">Linguagens</h2>
 
