@@ -15,7 +15,7 @@
 </div>
 
 <div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=angelosouza1&color=yellow" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=angelosouza1&color=yellow" alt="Visualizações no Perfil" /> </p>
 </div>
 
 <h2 id="sobre-mim">Sobre mim</h2>
