@@ -140,7 +140,8 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 </a></p>
 
 <p align="center">
-  <a href="mailto:angeloafdesouza@gmail.com" style="background-color:#05122A; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 20px;">Contato por E-mail</a>
+  <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
 </p>
+
 
 
