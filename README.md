@@ -50,7 +50,7 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
 </div>
-
+<p>
 <div style="text-align: center;">
     <div style="display: inline-block;">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=angelosouza1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
