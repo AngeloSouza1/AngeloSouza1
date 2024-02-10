@@ -52,25 +52,17 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 </div>
 <p>
 <div style="text-align: center;">
-    <div style="display: inline-block;">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=angelosouza1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosouza1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&icon_color=fff&bg_color=000000" />
-    </div>
+<div align="left">  
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angelosouza1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000000" alt="Angelo Souza" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelosouza1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000000" />
 </div>
-
 <p align="center">
     <a href="https://wakatime.com/@AAFS1981">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
+        <img width="50%" height="295px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
     </a>
 </p>
 
-<br>
-<br>
-<br>
-
-
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelosouza1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div style="display: flex; align-items: center;">
