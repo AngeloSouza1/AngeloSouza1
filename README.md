@@ -138,8 +138,15 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 [<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
-<h2 id="principais-repositorios">Principais Repositórios</h2>
 
+
+
+<div style="display: flex; align-items: center;">
+  <h2 id="principais-repositorios" style="margin-right: 10px;">Principais Repositórios</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
 <p>
 
 [![](https://img.shields.io/badge/-🩸%20Mentorship%20Project-C62828)](https://github.com/AngeloSouza1/Mentorship_Project)
