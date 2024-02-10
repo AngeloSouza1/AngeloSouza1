@@ -1,4 +1,4 @@
-<a name="top"></a>
+3<a name="top"></a>
 <p align="center">
   <img src="https://github.com/AngeloSouza1/tmp/raw/main/capa.gif" alt="Descrição da imagem">
 </p>
@@ -158,7 +158,7 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 <h2 id="contato">Contate me!</h2>
 <p align="center" >
 </a>
-<a href="//https://www.linkedin.com/in/angeloafsouza" target="_blank">
+<a href="https://www.linkedin.com/in/angeloafsouza" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=linkedin" alt="linkedin"/> 
 </a>
 <a href="https://wakatime.com/@AAFS1981" target="_blank">
