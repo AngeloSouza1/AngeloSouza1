@@ -20,8 +20,12 @@
 
 
 
-<h2 id="sobre-mim">Sobre mim</h2>
-
+<div style="display: flex; align-items: center;">
+  <h2 id=sobre-mim" style="margin-right: 10px;">Sobre mim</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
 <p>
 
 
@@ -37,9 +41,16 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 <br>
 <br>
 
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
-<h2 id="metricas-e-resultados">Métricas e Resultados</h2>
+
+
+<div style="display: flex; align-items: center;">
+  <h2 id=metricas-e-resultados" style="margin-right: 10px;">Métricas e Resultados</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
+<br>
 <div style="text-align: center;">
     <div style="display: inline-block;">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=angelosouza1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
@@ -57,12 +68,19 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 <br>
 <br>
 
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
 
-<h2 id="linguagens">Linguagens</h2>
 
+
+<div style="display: flex; align-items: center;">
+  <h2 id=linguagens" style="margin-right: 10px;">Linguagens</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
+<p>
+  
 ![Linux](https://img.shields.io/badge/-Linux-1976d2?&logo=Linux&logoColor=FCC624)
 ![Terminal](https://img.shields.io/badge/-Terminal-388e3c?&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-8e24aa?&logo=Git&logoColor=white)
@@ -88,15 +106,21 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 <br>
 <br>
 
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
 
 
 
-<h2 id="tecnologias">Tecnologias</h2>
 
 
+<div style="display: flex; align-items: center;">
+  <h2 id=tecnologias" style="margin-right: 10px;">Tecnologias</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
+<p>
+  
 ![Linux](https://img.shields.io/badge/-Linux-1976d2?&logo=Linux&logoColor=1976d2)
 ![Terminal](https://img.shields.io/badge/-Terminal-388e3c?&logo=Linux&logoColor=388e3c)
 ![Git](https://img.shields.io/badge/-Git-8e24aa?&logo=Git&logoColor=8e24aa)
@@ -121,21 +145,27 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 <br>
 <br>
 
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
 
 
-<h2 id="projetos">Projetos</h2>
 
 
+<div style="display: flex; align-items: center;">
+  <h2 id=projetos" style="margin-right: 10px;">Projetos</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
+<p>
+  
 [![](https://img.shields.io/badge/-🎟️%20Ticket%20Event-1976d2)](https://github.com/desenvolvendo-me/ticket-event)
 
 <br>
 <br>
 <br>
 
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
+
 
 
 
