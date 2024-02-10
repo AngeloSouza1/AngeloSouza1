@@ -177,6 +177,13 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 [<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
+<div style="display: flex; align-items: center;">
+  <h2 id="contato" style="margin-right: 10px;">Contate me!</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
+
 
 
 
