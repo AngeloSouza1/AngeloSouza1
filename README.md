@@ -45,7 +45,7 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 
 
 <div style="display: flex; align-items: center;">
-  <h2 id=metricas-e-resultados" style="margin-right: 10px;">Métricas e Resultados</h2>
+  <h2 id="metricas-e-resultados" style="margin-right: 10px;">Métricas e Resultados</h2>
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
@@ -74,7 +74,7 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 
 
 <div style="display: flex; align-items: center;">
-  <h2 id=linguagens" style="margin-right: 10px;">Linguagens</h2>
+  <h2 id="linguagens" style="margin-right: 10px;">Linguagens</h2>
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
@@ -114,7 +114,7 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 
 
 <div style="display: flex; align-items: center;">
-  <h2 id=tecnologias" style="margin-right: 10px;">Tecnologias</h2>
+  <h2 id="tecnologias" style="margin-right: 10px;">Tecnologias</h2>
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
@@ -152,7 +152,7 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 
 
 <div style="display: flex; align-items: center;">
-  <h2 id=projetos" style="margin-right: 10px;">Projetos</h2>
+  <h2 id="projetos" style="margin-right: 10px;">Projetos</h2>
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
