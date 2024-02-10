@@ -1,4 +1,4 @@
-3<a name="top"></a>
+<a name="top"></a>
 <p align="center">
   <img src="https://github.com/AngeloSouza1/tmp/raw/main/capa.gif" alt="Descrição da imagem">
 </p>
