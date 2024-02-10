@@ -155,7 +155,13 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
 
 
 
-<h2 id="contato">Contate me!</h2>
+<div style="display: flex; align-items: center;">
+  <h2 id="contato" style="margin-right: 10px;">Contate me!</h2>
+  <a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
+</div>
+
 <p align="center" >
 </a>
 <a href="https://www.linkedin.com/in/angeloafsouza" target="_blank">
@@ -174,15 +180,9 @@ Estou em constante busca por conhecimento e aperfeiçoamento, prontamente dispon
   <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
 </p>
 
-[<img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">](#top)
 
 
-<div style="display: flex; align-items: center;">
-  <h2 id="contato" style="margin-right: 10px;">Contate me!</h2>
-  <a href="#top">
-    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
-  </a>
-</div>
+
 
 
 
