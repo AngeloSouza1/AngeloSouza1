@@ -74,25 +74,18 @@ em meus projetos.
 </div>
 <p>
   
-![Linux](https://img.shields.io/badge/-Linux-1976d2?&logo=Linux&logoColor=FCC624)
-![Terminal](https://img.shields.io/badge/-Terminal-388e3c?&logo=Linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-8e24aa?&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-616161?&logo=GitHub&logoColor=white)
-![GitFlow](https://img.shields.io/badge/-GitFlow-8e24aa?&logo=Git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-388e3c?&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-1976d2?&logo=React&logoColor=white)
-![Fly.io](https://img.shields.io/badge/-Fly.io-f57c00?&logo=Fly.io&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-039be5?&logo=Docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-512da8?&logo=Heroku&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-009688?&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-3949ab?&logo=MySQL&logoColor=white)
-![SQLite3](https://img.shields.io/badge/-SQLite3-1a237e?&logo=SQLite&logoColor=white)
-![Restful](https://img.shields.io/badge/-Restful-616161?&logo=restful&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4a148c?&logo=Slack&logoColor=white)
-![Gather](https://img.shields.io/badge/-Gather-007acc?&logo=Gather&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-37474f?&logo=Amazon-AWS&logoColor=white)
-![JetBrains](https://img.shields.io/badge/-JetBrains-212121?&logo=JetBrains&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0288d1?&logo=Visual-Studio-Code&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=flat-square&logo=delphi&logoColor=white)
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rails&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assembly&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <br>
 <br>
