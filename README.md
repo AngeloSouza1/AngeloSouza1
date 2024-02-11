@@ -99,26 +99,28 @@
 
 <p align="center">
  
-  ![Linux](https://img.shields.io/badge/-Linux-1976d2?&logo=Linux&logoColor=1976d2)
-  ![Terminal](https://img.shields.io/badge/-Terminal-388e3c?&logo=Linux&logoColor=388e3c)
-  ![Git](https://img.shields.io/badge/-Git-8e24aa?&logo=Git&logoColor=8e24aa)
-  ![GitHub](https://img.shields.io/badge/-GitHub-616161?&logo=GitHub&logoColor=616161)
-  ![GitFlow](https://img.shields.io/badge/-GitFlow-8e24aa?&logo=Git&logoColor=8e24aa)
-  ![Node.js](https://img.shields.io/badge/-Node.js-388e3c?&logo=node.js&logoColor=388e3c)
-  ![React](https://img.shields.io/badge/-React-1976d2?&logo=React&logoColor=1976d2)
-  ![Fly.io](https://img.shields.io/badge/-Fly.io-f57c00?&logo=Fly.io&logoColor=f57c00)
-  ![Docker](https://img.shields.io/badge/-Docker-039be5?&logo=Docker&logoColor=039be5)
-  ![Heroku](https://img.shields.io/badge/-Heroku-512da8?&logo=Heroku&logoColor=512da8)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-009688?&logo=PostgreSQL&logoColor=009688)
-  ![MySQL](https://img.shields.io/badge/-MySQL-3949ab?&logo=MySQL&logoColor=3949ab)
-  ![SQLite3](https://img.shields.io/badge/-SQLite3-1a237e?&logo=SQLite&logoColor=1a237e)
-  ![Restful](https://img.shields.io/badge/-Restful-616161?&logo=restful&logoColor=616161)
-  ![Slack](https://img.shields.io/badge/-Slack-4a148c?&logo=Slack&logoColor=4a148c)
-  ![Gather](https://img.shields.io/badge/-Gather-007acc?&logo=Gather&logoColor=007acc)
-  ![AWS](https://img.shields.io/badge/-AWS-37474f?&logo=Amazon-AWS&logoColor=37474f)
-  ![JetBrains](https://img.shields.io/badge/-JetBrains-212121?&logo=JetBrains&logoColor=212121)
-  ![VSCode](https://img.shields.io/badge/-VSCode-0288d1?&logo=Visual-Studio-Code&logoColor=0288d1)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1976d2?style=flat-square&logo=Linux)
+![Terminal](https://img.shields.io/badge/Terminal-388e3c?style=flat-square&logo=Linux)
+![Git](https://img.shields.io/badge/Git-8e24aa?style=flat-square&logo=Git)
+![GitHub](https://img.shields.io/badge/GitHub-616161?style=flat-square&logo=GitHub)
+![GitFlow](https://img.shields.io/badge/GitFlow-8e24aa?style=flat-square&logo=Git)
+![Node.js](https://img.shields.io/badge/Node.js-388e3c?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-1976d2?style=flat-square&logo=React)
+![Fly.io](https://img.shields.io/badge/Fly.io-f57c00?style=flat-square&logo=Fly.io)
+![Docker](https://img.shields.io/badge/Docker-039be5?style=flat-square&logo=Docker)
+![Heroku](https://img.shields.io/badge/Heroku-512da8?style=flat-square&logo=Heroku)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-009688?style=flat-square&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/MySQL-3949ab?style=flat-square&logo=MySQL)
+![SQLite3](https://img.shields.io/badge/SQLite3-1a237e?style=flat-square&logo=SQLite)
+![Restful](https://img.shields.io/badge/Restful-616161?style=flat-square&logo=restful)
+![Slack](https://img.shields.io/badge/Slack-4a148c?style=flat-square&logo=Slack)
+![Gather](https://img.shields.io/badge/Gather-007acc?style=flat-square&logo=Gather)
+![AWS](https://img.shields.io/badge/AWS-37474f?style=flat-square&logo=Amazon-AWS)
+![JetBrains](https://img.shields.io/badge/JetBrains-212121?style=flat-square&logo=JetBrains)
+![VSCode](https://img.shields.io/badge/VSCode-0288d1?style=flat-square&logo=Visual-Studio-Code)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+
 </p>
 
 <br>
