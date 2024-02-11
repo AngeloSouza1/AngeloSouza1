@@ -29,7 +29,7 @@
 </div>
 <p>
 
-<img align="right" alt="Coding" width="450" src="https://github.com/AngeloSouza1/tmp/blob/main/download (1).jpeg">
+<img align="right" alt="Coding" width="480" src="https://github.com/AngeloSouza1/tmp/blob/main/fundo.avif">
 <div style="text-align: center;">
 Olá!
 
