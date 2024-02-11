@@ -44,8 +44,7 @@ em meus projetos.
 
 
 </div>
-<br>
-<br>
+
 <br>
 <div style="display: flex; align-items: center;">
   <h2 id="metricas-e-resultados" style="margin-right: 10px;">Métricas e Resultados</h2>
