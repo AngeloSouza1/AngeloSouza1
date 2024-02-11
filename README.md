@@ -14,13 +14,12 @@
  <a href="#contato">Contate me!</a> • 
 </div>
 
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngeloSouza1&label=Profile%20views&color=0e75b6&style=flat" alt="AngeloSouza1" width="145" />
+</p>
 
 
-
-<div align="center">
-<br><p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AngeloSouza1}/count.svg" /></p> 
-<br></div>
 
 <div style="display: flex; align-items: center;">
   <h2 id=sobre-mim" style="margin-right: 10px;">Sobre mim</h2>
