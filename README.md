@@ -37,7 +37,8 @@ Sou um desenvolvedor backend dedicado a aprimorar minhas habilidades e conhecime
 
 Estou comprometido em compreender profundamente as necessidades dos usuários e aplicar meu conhecimento para transformá-las em produtos de software robustos e escaláveis. Estou ansioso para continuar crescendo, enfrentando novos desafios e contribuindo para o avanço da tecnologia.
 
-Estou em constante busca por conhecimento e aperfeiçoamento, prontamente disponível para enfrentar novos desafios e aplicar técnicas cada vez mais avançadas em meus projetos.
+Estou em constante busca por conhecimento e aperfeiçoamento, prontamente disponível para enfrentar novos desafios e aplicar técnicas cada vez mais avançadas
+em meus projetos.
 
 
 </div>
