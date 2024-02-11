@@ -31,7 +31,7 @@
 
 
 
-<div style="text-align: left;">
+<div style="text-align: justify;">
 <img align="right" alt="Coding" width="490" src="https://github.com/AngeloSouza1/tmp/blob/main/fundo.avif" >
   Olá!
 
