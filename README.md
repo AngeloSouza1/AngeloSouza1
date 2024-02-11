@@ -84,7 +84,6 @@ em meus projetos.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 <br>
@@ -125,7 +124,9 @@ em meus projetos.
 ![Gather](https://img.shields.io/badge/-Gather-007acc?&logo=Gather&logoColor=007acc)
 ![AWS](https://img.shields.io/badge/-AWS-37474f?&logo=Amazon-AWS&logoColor=37474f)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-212121?&logo=JetBrains&logoColor=212121)
-![VSCode](https://img.shields.io/badge/-VSCode-0288d1?&logo=Visual-Studio-Code&logoColor=0288d1)</p>
+![VSCode](https://img.shields.io/badge/-VSCode-0288d1?&logo=Visual-Studio-Code&logoColor=0288d1)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+</p>
 <br>
 <br>
 <br>
