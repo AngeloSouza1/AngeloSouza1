@@ -44,7 +44,6 @@ em meus projetos.
 
 
 </div>
-
 <br>
 <div style="display: flex; align-items: center;">
   <h2 id="metricas-e-resultados" style="margin-right: 10px;">Métricas e Resultados</h2>
@@ -62,7 +61,7 @@ em meus projetos.
     <a href="https://wakatime.com/@AAFS1981">
         <img width="50%" height="295px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
     </a>
-</p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelosouza1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
