@@ -29,7 +29,8 @@
 </div>
 <p>
 
-<img align="right" alt="Coding" width="380" src="https://github.com/AngeloSouza1/tmp/blob/main/fundo.avif" style="margin-top: 10px;>
+<img align="right" alt="Coding" width="480" src="https://github.com/AngeloSouza1/tmp/blob/main/fundo.avif" >
+
 <div style="text-align: left;">
 
   Olá!
