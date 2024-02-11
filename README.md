@@ -205,10 +205,16 @@ em meus projetos.
  <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a></p>
 
+
+
+
 <p align="center">
   <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
 </p>
 
+<p align="center">
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
 
 
