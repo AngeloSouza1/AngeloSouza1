@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@AAFS1981">
-    <img width="50%" height="295px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
+    <img width="60%" height="295px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
   </a>
 </p>
 
