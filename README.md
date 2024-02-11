@@ -29,7 +29,8 @@
 </div>
 <p>
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div style="text-align: justify;">
 Olá!
 
 Sou um desenvolvedor backend dedicado a aprimorar minhas habilidades e conhecimentos na construção de soluções eficientes para aplicativos web e mobile. Em minha jornada, estou constantemente buscando aprender e me aprimorar em programação e arquitetura de software, sempre em busca de inovação e qualidade em cada projeto em que me envolvo.
@@ -38,12 +39,9 @@ Estou comprometido em compreender profundamente as necessidades dos usuários e 
 
 Estou em constante busca por conhecimento e aperfeiçoamento, prontamente disponível para enfrentar novos desafios e aplicar técnicas cada vez mais avançadas em meus projetos.
 
-<br>
-<br>
-<br>
 
-
-
+</div>
+<br>
 
 <div style="display: flex; align-items: center;">
   <h2 id="metricas-e-resultados" style="margin-right: 10px;">Métricas e Resultados</h2>
