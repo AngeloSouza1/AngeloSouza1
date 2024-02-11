@@ -29,9 +29,9 @@
 </div>
 <p>
 
-
-<div style="text-align: left;">
 <img align="right" alt="Coding" width="380" src="https://github.com/AngeloSouza1/tmp/blob/main/fundo.avif" style="margin-top: 10px;>
+<div style="text-align: left;">
+
   Olá!
 
 Sou um desenvolvedor backend dedicado a aprimorar minhas habilidades e conhecimentos na construção de soluções eficientes para aplicativos web e mobile. Em minha jornada, estou constantemente buscando aprender e me aprimorar em programação e arquitetura de software, sempre em busca de inovação e qualidade em cada projeto em que me envolvo.
