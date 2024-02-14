@@ -134,11 +134,14 @@
 </div>
 
 <p>
-  
-  [![](https://img.shields.io/badge/-🎟️%20Ticket%20Event-1976d2)](https://github.com/desenvolvendo-me/ticket-event)
-  [![](https://img.shields.io/badge/-☕%20find-my%20-coffee-1976d2)](https://github.com/AngeloSouza1/find-my-coffee)
-  
+  <a href="https://github.com/desenvolvendo-me/ticket-event">
+    <img src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-1976d2" alt="Ticket Event">
+  </a>
+  <a href="https://github.com/AngeloSouza1/find-my-coffee">
+    <img src="https://img.shields.io/badge/-☕%20Find%20My%20Coffee-ff5722" alt="Find My Coffee">
+  </a>
 </p>
+
 
 <br>
 <br>
