@@ -136,7 +136,7 @@
 <p>
   
   [![](https://img.shields.io/badge/-🎟️%20Ticket%20Event-1976d2)](https://github.com/desenvolvendo-me/ticket-event)
-  [![](https://img.shields.io/badge/-☕%20find-my%2-coffee-1976d2)](https://github.com/AngeloSouza1/find-my-coffee)
+  [![](https://img.shields.io/badge/-☕%20find-my%20-coffee-1976d2)](https://github.com/AngeloSouza1/find-my-coffee)
   
 </p>
 
