@@ -159,13 +159,15 @@
 </div>
 
 <p>
-  
-  [![](https://img.shields.io/badge/-🩸%20Mentorship%20Project-C62828)](https://github.com/AngeloSouza1/Mentorship_Project)
-  [![](https://img.shields.io/badge/-🌊%20TT%201-1976d2)](https://github.com/AngeloSouza1/TT1)
-  [![](https://img.shields.io/badge/-🗂%20TT%202-388e3c)](https://github.com/AngeloSouza1/TT2)
-  [![](https://img.shields.io/badge/-💉%20TT%203-8e24aa)](https://github.com/AngeloSouza1/TT3)
+
+  [![](https://img.shields.io/badge/-🌸%20Mentorship%20Project-FF4081)](https://github.com/AngeloSouza1/Mentorship_Project)
+  [![](https://img.shields.io/badge/-🌊%20TT%201-448AFF)](https://github.com/AngeloSouza1/TT1)
+  [![](https://img.shields.io/badge/-🍃%20TT%202-4CAF50)](https://github.com/AngeloSouza1/TT2)
+  [![](https://img.shields.io/badge/-💉%20TT%203-9C27B0)](https://github.com/AngeloSouza1/TT3)
   [![](https://img.shields.io/badge/-🛡%20TT%204-616161)](https://github.com/AngeloSouza1/TT4)
-  [![](https://img.shields.io/badge/-🌐%20TT%205-f57c00)](https://github.com/AngeloSouza1/TT5)
+  [![](https://img.shields.io/badge/-🌐%20TT%205-FF5722)](https://github.com/AngeloSouza1/TT5)
+  [![](https://img.shields.io/badge/-🌟%20Style%20Selection-FFC107)](https://github.com/AngeloSouza1/style-selection)
+
 </p>
 
 <br>
