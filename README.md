@@ -167,7 +167,7 @@
   [![](https://img.shields.io/badge/-🛡%20TT%204-616161)](https://github.com/AngeloSouza1/TT4)
   [![](https://img.shields.io/badge/-🌐%20TT%205-FF5722)](https://github.com/AngeloSouza1/TT5)
   [![](https://img.shields.io/badge/-🌟%20Style%20Selection-FFC107)](https://github.com/AngeloSouza1/style-selection)
-
+  [![](https://img.shields.io/badge/-🌟%20Lista%20Estudante-FFC107)](https://https://github.com/AngeloSouza1/lista-estudantes)
 </p>
 
 <br>
