@@ -134,12 +134,17 @@
 </div>
 
 <p>
-  <a href="https://github.com/desenvolvendo-me/ticket-event">
-    <img src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-1976d2" alt="Ticket Event">
-  </a>
-  <a href="https://github.com/AngeloSouza1/find-my-coffee">
-    <img src="https://img.shields.io/badge/-☕%20Find%20My%20Coffee-ff5722" alt="Find My Coffee">
-  </a>
+<a href="https://github.com/desenvolvendo-me/ticket-event">
+  <img src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-1976d2" alt="Ticket Event" style="background-color:#1976d2;">
+</a>
+<a href="https://github.com/AngeloSouza1/find-my-coffee">
+  <img src="https://img.shields.io/badge/-☕%20Find%20My%20Coffee-ff5722" alt="Find My Coffee" style="background-color:#ff5722;">
+</a>
+<a href="https://github.com/AngeloSouza1/calculadora-web">
+  <img src="https://img.shields.io/badge/-🧮%20Calculadora%20Web-4caf50" alt="Calculadora Web" style="background-color:#4caf50;">
+</a>
+
+  
 </p>
 
 
