@@ -153,10 +153,9 @@
 
 <div style="display: flex; align-items: center;">
 
-    <h2 id="principais-repositorios" style="display: inline-block; margin-right: 5px;">Principais Repositórios</h2>
-    <ul>
-    <li><h4>Conhecimentos e Testes</h4></li>
-    </ul>
+    <h2 id="principais-repositorios" style="margin-right: 10px;">Principais Repositórios</h2>
+     <h4>Conhecimentos e Testes</h4>
+   
 
 
   <a href="#top">
