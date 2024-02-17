@@ -153,6 +153,7 @@
 
 <div style="display: flex; align-items: center;">
   <h2 id="principais-repositorios" style="margin-right: 10px;">Principais Repositórios (Conhecimentos e Testes)</h2>
+  <h3 id="principais-repositorios" style="margin-right: 10px;">Conhecimentos e Testes</h3>
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
