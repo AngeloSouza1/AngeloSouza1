@@ -146,6 +146,7 @@
   <img src="https://img.shields.io/badge/-🔐%20Gerador%20Senha-795548" alt="Gerador Senha" style="background-color:#795548;">
 </a>
 
+
   
 </p>
 
