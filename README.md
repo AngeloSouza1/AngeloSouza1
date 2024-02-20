@@ -72,12 +72,12 @@
 
 <p align="center">
   
- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=FFFFFF)
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rails&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=FFFFFF)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=FFFFFF)
 ![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=flat-square&logo=delphi&logoColor=FFFFFF)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rails&logoColor=FFFFFF)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assembly&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF)
