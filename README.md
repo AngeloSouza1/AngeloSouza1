@@ -47,14 +47,12 @@
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
 </div>
-
 <p align="center">
   <div align="left">  
     <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AngeloSouza1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=000000" alt="Angelo Souza" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloSouza1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=000000" />
   </div>
 </p>
-
 <p align="center">
   <a href="https://wakatime.com/@AAFS1981">
     <img width="60%" height="295px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AAFS1981&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff" alt="Angelo's WakaTime">
