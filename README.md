@@ -103,8 +103,6 @@
 ![Git](https://img.shields.io/badge/Git-8e24aa?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-616161?style=flat-square&logo=GitHub&logoColor=white)
 ![GitFlow](https://img.shields.io/badge/GitFlow-8e24aa?style=flat-square&logo=Git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-388e3c?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-1976d2?style=flat-square&logo=React&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/Fly.io-f57c00?style=flat-square&logo=Fly.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-039be5?style=flat-square&logo=Docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-009688?style=flat-square&logo=PostgreSQL&logoColor=white)
