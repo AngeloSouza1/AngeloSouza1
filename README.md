@@ -139,7 +139,9 @@
 <a href="https://github.com/AngeloSouza1/calculadora-web">
   <img src="https://img.shields.io/badge/-🧮%20Calculadora%20Web-4caf50" alt="Calculadora Web" style="background-color:#4caf50;">
 </a>
-
+<a href="https://github.com/AngeloSouza1/password-generator">
+  <img src="https://img.shields.io/badge/-🔐%20Gerador%20Senha-4caf50" alt="Calculadora Web" style="background-color:#4caf50;">
+</a>
   
 </p>
 
