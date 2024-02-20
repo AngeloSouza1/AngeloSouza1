@@ -98,22 +98,23 @@
 
 <p align="center">
  
-![Linux](https://img.shields.io/badge/Linux-1976d2?style=flat-square&logo=Linux)
-![Terminal](https://img.shields.io/badge/Terminal-388e3c?style=flat-square&logo=Linux)
-![Git](https://img.shields.io/badge/Git-8e24aa?style=flat-square&logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-616161?style=flat-square&logo=GitHub)
-![GitFlow](https://img.shields.io/badge/GitFlow-8e24aa?style=flat-square&logo=Git)
-![Node.js](https://img.shields.io/badge/Node.js-388e3c?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/React-1976d2?style=flat-square&logo=React)
-![Fly.io](https://img.shields.io/badge/Fly.io-f57c00?style=flat-square&logo=Fly.io)
-![Docker](https://img.shields.io/badge/Docker-039be5?style=flat-square&logo=Docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-009688?style=flat-square&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/MySQL-3949ab?style=flat-square&logo=MySQL)
-![SQLite3](https://img.shields.io/badge/SQLite3-1a237e?style=flat-square&logo=SQLite)
-![Restful](https://img.shields.io/badge/Restful-616161?style=flat-square&logo=restful)
-![JetBrains](https://img.shields.io/badge/JetBrains-212121?style=flat-square&logo=JetBrains)
-![VSCode](https://img.shields.io/badge/VSCode-0288d1?style=flat-square&logo=Visual-Studio-Code)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Linux](https://img.shields.io/badge/Linux-1976d2?style=flat-square&logo=Linux&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-388e3c?style=flat-square&logo=Linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8e24aa?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-616161?style=flat-square&logo=GitHub&logoColor=white)
+![GitFlow](https://img.shields.io/badge/GitFlow-8e24aa?style=flat-square&logo=Git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-388e3c?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1976d2?style=flat-square&logo=React&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-f57c00?style=flat-square&logo=Fly.io&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-039be5?style=flat-square&logo=Docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-009688?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3949ab?style=flat-square&logo=MySQL&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-1a237e?style=flat-square&logo=SQLite&logoColor=white)
+![Restful](https://img.shields.io/badge/Restful-616161?style=flat-square&logo=restful&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-212121?style=flat-square&logo=JetBrains&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0288d1?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 
 </p>
