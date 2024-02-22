@@ -145,7 +145,7 @@
 </a>
 
 <a href="https://github.com/AngeloSouza1/TodoList">
-  <img src="https://img.shields.io/badge/-📒%20Todolist-795548" alt="TodoList" style="background-color:#795548;">
+  <img src="https://img.shields.io/badge/-📒%20Todolist-795547" alt="TodoList" style="background-color:#795548;">
 </a>
 
 
