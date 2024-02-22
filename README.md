@@ -145,9 +145,8 @@
 </a>
 
 <a href="https://github.com/AngeloSouza1/TodoList">
-  <img src="https://img.shields.io/badge/-📒%20Todolist-795547" alt="TodoList" style="background-color:#795548;">
+  <img src="https://img.shields.io/badge/-📒%20Todolist-9c27b0" alt="TodoList" style="background-color:#9c27b0;">
 </a>
-
 
   
 </p>
@@ -173,7 +172,7 @@
 [![](https://img.shields.io/badge/-🛡%20TT%204-616161)](https://github.com/AngeloSouza1/TT4)
 [![](https://img.shields.io/badge/-🌐%20TT%205-FF5722)](https://github.com/AngeloSouza1/TT5)
 [![](https://img.shields.io/badge/-✨%20Style%20Selection-FFC107)](https://github.com/AngeloSouza1/style-selection)
-[![](https://img.shields.io/badge/-📚%20Lista%20Estudante-FFC107)](https://github.com/AngeloSouza1/lista-estudantes)
+[![](https://img.shields.io/badge/-📚%20Lista%20Estudante-795548)](https://github.com/AngeloSouza1/lista-estudantes)
 
 
 </p>
