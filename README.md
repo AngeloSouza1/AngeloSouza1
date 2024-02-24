@@ -148,6 +148,12 @@
   <img src="https://img.shields.io/badge/-📒%20Todolist-9c27b0" alt="TodoList" style="background-color:#9c27b0;">
 </a>
 
+<a href="https://github.com/AngeloSouza1/send-ticket">
+  <img src="https://img.shields.io/badge/-🎫%20Send%20Ticket-795548" alt="SendTicket" style="background-color:#795548;">
+</a>
+
+
+
   
 </p>
 
