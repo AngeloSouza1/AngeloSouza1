@@ -170,13 +170,12 @@
 </div>
 
 <p>
-
 [![](https://img.shields.io/badge/-🌸%20Mentorship%20Project-FF4081?style=for-the-badge)](https://github.com/AngeloSouza1/Mentorship_Project)
-[![](https://img.shields.io/badge/-🌊%20%20TT%201-448AFF?style=for-the-badge)](https://github.com/AngeloSouza1/TT1)
-[![](https://img.shields.io/badge/-🍃%20%20TT%202-4CAF50?style=for-the-badge)](https://github.com/AngeloSouza1/TT2)
-[![](https://img.shields.io/badge/-💉%20%20TT%203-9C27B0?style=for-the-badge)](https://github.com/AngeloSouza1/TT3)
-[![](https://img.shields.io/badge/-🛡%20%20TT%204-616161?style=for-the-badge)](https://github.com/AngeloSouza1/TT4)
-[![](https://img.shields.io/badge/-🌐%20%20TT%205-FF5722?style=for-the-badge)](https://github.com/AngeloSouza1/TT5)
+[![](https://img.shields.io/badge/-🌊%20Sea%20TT%201-448AFF?style=for-the-badge)](https://github.com/AngeloSouza1/TT1)
+[![](https://img.shields.io/badge/-🍃%20Leaf%20TT%202-4CAF50?style=for-the-badge)](https://github.com/AngeloSouza1/TT2)
+[![](https://img.shields.io/badge/-💉%20Medical%20TT%203-9C27B0?style=for-the-badge)](https://github.com/AngeloSouza1/TT3)
+[![](https://img.shields.io/badge/-🛡%20Shield%20TT%204-616161?style=for-the-badge)](https://github.com/AngeloSouza1/TT4)
+[![](https://img.shields.io/badge/-🌐%20Globe%20TT%205-FF5722?style=for-the-badge)](https://github.com/AngeloSouza1/TT5)
 [![](https://img.shields.io/badge/-✨%20Style%20Selection-FFC107?style=for-the-badge)](https://github.com/AngeloSouza1/style-selection)
 [![](https://img.shields.io/badge/-📚%20Student%20List-795548?style=for-the-badge)](https://github.com/AngeloSouza1/lista-estudantes)
 [![](https://img.shields.io/badge/-🔍%20Product%20Filter-4caf50?style=for-the-badge)](https://github.com/AngeloSouza1/filtrar-produtos)
