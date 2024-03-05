@@ -179,7 +179,7 @@
 [![](https://img.shields.io/badge/-🌐%20TT%205-FF5722)](https://github.com/AngeloSouza1/TT5)
 [![](https://img.shields.io/badge/-✨%20Style%20Selection-FFC107)](https://github.com/AngeloSouza1/style-selection)
 [![](https://img.shields.io/badge/-📚%20Lista%20Estudante-795548)](https://github.com/AngeloSouza1/lista-estudantes)
-[![](https://img.shields.io/badge/-📚%20Filtrar%20Produto-4caf50)](https://github.com/AngeloSouza1/filtrar-produtos)
+[![](https://img.shields.io/badge/-🔍%20Filtrar%20Produto-4caf50)](https://github.com/AngeloSouza1/filtrar-produtos)
 
 
 </p>
