@@ -150,7 +150,7 @@
     </tr>
     <tr>
       <td>02</td>
-      <td>Find my Coffe</td>
+      <td>Find my Coffee</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/find-my-coffee">
            <img align="center" alt="TT1" src="https://img.shields.io/badge/-☕%20Find%20My%20Coffee-563D7C?style=for-the-badge&logoColor=white">
@@ -320,13 +320,6 @@
     </tbody>
   <tfoot></tfoot>
 </table>
-
-
-
-
-
-
-
 
 
 
