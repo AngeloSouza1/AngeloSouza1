@@ -68,17 +68,18 @@
 
 <p align="center">
   
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=FFFFFF)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rails&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=FFFFFF)
-![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=flat-square&logo=delphi&logoColor=FFFFFF)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assembly&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=rails&logoColor=FFFFFF)](https://rubyonrails.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)](https://www.java.com/)
+[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=for-the-badge&logo=delphi&logoColor=FFFFFF)](https://www.embarcadero.com/products/delphi)
+[![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Assembly_language)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 </p>
 
@@ -94,21 +95,20 @@
 
 <p align="center">
  
-![Linux](https://img.shields.io/badge/Linux-1976d2?style=flat-square&logo=Linux&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-388e3c?style=flat-square&logo=Linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8e24aa?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-616161?style=flat-square&logo=GitHub&logoColor=white)
-![GitFlow](https://img.shields.io/badge/GitFlow-8e24aa?style=flat-square&logo=Git&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-f57c00?style=flat-square&logo=Fly.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-039be5?style=flat-square&logo=Docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-009688?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3949ab?style=flat-square&logo=MySQL&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite3-1a237e?style=flat-square&logo=SQLite&logoColor=white)
-![Restful](https://img.shields.io/badge/Restful-616161?style=flat-square&logo=restful&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-212121?style=flat-square&logo=JetBrains&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0288d1?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
+[![Linux](https://img.shields.io/badge/Linux-1976d2?style=for-the-badge&logo=Linux&logoColor=white)](https://www.linux.org/)
+[![Terminal](https://img.shields.io/badge/Terminal-388e3c?style=for-the-badge&logo=Linux&logoColor=white)](https://pt.wikipedia.org/wiki/Terminal_(inform%C3%A1tica))
+[![Git](https://img.shields.io/badge/Git-8e24aa?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-616161?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+[![GitFlow](https://img.shields.io/badge/GitFlow-8e24aa?style=for-the-badge&logo=Git&logoColor=white)](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[![Fly.io](https://img.shields.io/badge/Fly.io-f57c00?style=for-the-badge&logo=Fly.io&logoColor=white)](https://fly.io/)
+[![Docker](https://img.shields.io/badge/Docker-039be5?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-009688?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-3949ab?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![SQLite3](https://img.shields.io/badge/SQLite3-1a237e?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
+[![Restful](https://img.shields.io/badge/Restful-616161?style=for-the-badge&logo=restful&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
+[![JetBrains](https://img.shields.io/badge/JetBrains-212121?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-0288d1?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
 </p>
