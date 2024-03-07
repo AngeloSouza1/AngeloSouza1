@@ -17,12 +17,13 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngeloSouza1&label=Profile%20views&color=0e75b6&style=flat" alt="AngeloSouza1" width="145" />
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AngeloSouza1&label=Profile%20views&color=0e75b6&style=flat" alt="AngeloSouza1" width="145" />
+    <a href="https://wakatime.com/@92dcab90-e15c-415c-b920-70e04427f963">
+        <img src="https://wakatime.com/badge/user/92dcab90-e15c-415c-b920-70e04427f963.svg" alt="Wakatime" style="width: 140px;">
+    </a>
+</div>
 
-<a href="https://wakatime.com/@92dcab90-e15c-415c-b920-70e04427f963">
-    <img src="https://wakatime.com/badge/user/92dcab90-e15c-415c-b920-70e04427f963.svg" alt="Wakatime" style="width: 145px; font-size: 50px;">
-</a>
 
 
 
