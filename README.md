@@ -151,6 +151,18 @@
 </p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 <br>
 
@@ -162,8 +174,7 @@
   </a>
 </div>
 
-<p>
-</p>
+
 
 <table>
   <thead>
@@ -294,6 +305,3 @@
   <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/AngeloSouza1/tmp/raw/main/capa.gif" alt="Descrição da imagem">
-</p>
