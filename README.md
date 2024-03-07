@@ -124,9 +124,7 @@
 </div>
     <div style="display: flex; flex-direction: row;">
       <img align="right" alt="Coding" width="420" height="365" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
-   
-
-      <table>
+         <table>
             <thead>
                 <tr align="left">
                     <th>Nº</th>
