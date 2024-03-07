@@ -123,7 +123,8 @@
   </a>
 </div>
     <div style="display: flex; flex-direction: row;">
-        <table>
+      <img align="right" alt="Coding" width="520" height="365" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
+      <table>
             <thead>
                 <tr align="left">
                     <th>Nº</th>
@@ -135,7 +136,7 @@
                 <tr>
                     <td>01</td>
                     <td>Ticket</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/desenvolvendo-me/ticket-event">
                             <img align="center" alt="MP" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -144,7 +145,7 @@
                 <tr>
                     <td>02</td>
                     <td>Find my Coffee</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/AngeloSouza1/find-my-coffee">
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-☕%20Find%20My%20Coffee-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -153,7 +154,7 @@
                 <tr>
                     <td>03</td>
                     <td>Calculadora Web</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/AngeloSouza1/calculadora-web">
                             <img align="center" alt="TT2" src="https://img.shields.io/badge/-🧮%20Calculadora%20Web-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -162,7 +163,7 @@
                 <tr>
                     <td>04</td>
                     <td>Password Generator</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/AngeloSouza1/password-generator">
                             <img align="center" alt="TT3" src="https://img.shields.io/badge/-🔐%20Gerador%20Senha-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -171,7 +172,7 @@
                 <tr>
                     <td>05</td>
                     <td>TodoList</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/AngeloSouza1/TodoList">
                             <img align="center" alt="TT4" src="https://img.shields.io/badge/-📒%20Todolist-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -180,7 +181,7 @@
                 <tr>
                     <td>06</td>
                     <td>Send Ticket</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/AngeloSouza1/send-ticket">
                             <img align="center" alt="TT5" src="https://img.shields.io/badge/-🎫%20Send%20Ticket-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -189,7 +190,7 @@
                 <tr>
                     <td>07</td>
                     <td>Style Selection</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/AngeloSouza1/style-selection">
                             <img align="center" alt="SS" src="https://img.shields.io/badge/-✨%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -198,7 +199,7 @@
                 <tr>
                     <td>08</td>
                     <td>Student List</td>
-                    <td align="center">
+                    <td align="left">
                         <a href="https://github.com/AngeloSouza1/lista-estudantes">
                             <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
                         </a>
@@ -210,10 +211,6 @@
 
    </div>
 
-
-
-       
-
 <br>
 <br>
 
@@ -224,6 +221,8 @@
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
 </div>
+<div style="display: flex; flex-direction: row;">
+<img align="right" alt="Coding" width="520" height="410" src="https://github.com/AngeloSouza1/tmp/blob/main/84409.jpg">
 <table>
   <thead>
     <tr align="left">
@@ -245,7 +244,7 @@
     <tr>
       <td>02</td>
       <td>Testes</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/TT1">
            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌊%20%20TT%201-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -254,7 +253,7 @@
     <tr>
       <td>03</td>
       <td>Testes</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/TT2">
            <img align="center" alt="TT2" src="https://img.shields.io/badge/-🍃%20%20TT%202-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -263,7 +262,7 @@
     <tr>
       <td>04</td>
       <td>Testes</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/TT3">
            <img align="center" alt="TT3" src="https://img.shields.io/badge/-💉%20%20TT%203-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -272,7 +271,7 @@
      <tr>
       <td>05</td>
       <td>Testes</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/TT4">
            <img align="center" alt="TT4" src="https://img.shields.io/badge/-🛡%20%20TT%204-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -281,7 +280,7 @@
      <tr>
       <td>06</td>
       <td>Testes</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/TT5">
            <img align="center" alt="TT5" src="https://img.shields.io/badge/-🌐%20%20TT%205-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -290,7 +289,7 @@
      <tr>
       <td>07</td>
       <td>Style Selection</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/style-selection">
            <img align="center" alt="SS" src="https://img.shields.io/badge/-✨%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -299,7 +298,7 @@
       <tr>
       <td>08</td>
       <td>Student List</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/lista-estudantes">
            <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -308,7 +307,7 @@
      <tr>
       <td>09</td>
       <td>Product Filter</td>
-      <td align="center">
+      <td align="left">
         <a href="https://github.com/AngeloSouza1/filtrar-produtos">
         <img align="center" alt="PF" src="https://img.shields.io/badge/-🔍%20Product%20Filter-563D7C?style=for-the-badge&logoColor=white">
         </a>
@@ -317,7 +316,7 @@
     </tbody>
   <tfoot></tfoot>
 </table>
-
+</div>
 
 
 <div style="display: flex; align-items: center;">
