@@ -1,7 +1,5 @@
 <a name="top"></a>
-<p align="center">
-  <img src="https://github.com/AngeloSouza1/tmp/raw/main/capa.gif" alt="Descrição da imagem">
-</p>
+
 
 <div>
   <p align="center">
@@ -59,9 +57,7 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelosouza1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" alt="Activity Graph">
-</div>
+
 
 <div style="display: flex; align-items: center;">
   <h2 id="linguagens" style="margin-right: 10px;">Linguagens</h2>
@@ -151,9 +147,6 @@
 <a href="https://github.com/AngeloSouza1/send-ticket">
   <img src="https://img.shields.io/badge/-🎫%20Send%20Ticket-795548" alt="SendTicket" style="background-color:#795548;">
 </a>
-
-
-
   
 </p>
 
@@ -170,22 +163,110 @@
 </div>
 
 <p>
-  
-[![](https://img.shields.io/badge/-🌸%20Mentorship%20Project-FF4081)](https://github.com/AngeloSouza1/Mentorship_Project)
-[![](https://img.shields.io/badge/-🌊%20%20TT%201-448AFF)](https://github.com/AngeloSouza1/TT1)
-[![](https://img.shields.io/badge/-🍃%20%20TT%202-4CAF50)](https://github.com/AngeloSouza1/TT2)
-[![](https://img.shields.io/badge/-💉%20%20TT%203-9C27B0)](https://github.com/AngeloSouza1/TT3)
-[![](https://img.shields.io/badge/-🛡%20%20TT%204-616161)](https://github.com/AngeloSouza1/TT4)
-[![](https://img.shields.io/badge/-🌐%20%20TT%205-FF5722)](https://github.com/AngeloSouza1/TT5)
-[![](https://img.shields.io/badge/-✨%20Style%20Selection-FFC107)](https://github.com/AngeloSouza1/style-selection)
-[![](https://img.shields.io/badge/-📚%20Student%20List-795548)](https://github.com/AngeloSouza1/lista-estudantes)
-[![](https://img.shields.io/badge/-🔍%20Product%20Filter-4caf50)](https://github.com/AngeloSouza1/filtrar-produtos)
-
-
 </p>
 
-<br>
-<br>
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Repósitorio</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Mentorship Project</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/Mentorship_Project">
+           <img align="center" alt="MP" src="https://img.shields.io/badge/-🌸%20Mentorship%20Project-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Testes</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/TT1">
+           <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌊%20%20TT%201-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Testes</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/TT2">
+           <img align="center" alt="TT2" src="https://img.shields.io/badge/-🍃%20%20TT%202-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Testes</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/TT3">
+           <img align="center" alt="TT3" src="https://img.shields.io/badge/-💉%20%20TT%203-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
+     <tr>
+      <td>05</td>
+      <td>Testes</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/TT4">
+           <img align="center" alt="TT4" src="https://img.shields.io/badge/-🛡%20%20TT%204-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
+     <tr>
+      <td>06</td>
+      <td>Testes</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/TT5">
+           <img align="center" alt="TT5" src="https://img.shields.io/badge/-🌐%20%20TT%205-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
+     <tr>
+      <td>07</td>
+      <td>Style Selection</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/style-selection">
+           <img align="center" alt="SS" src="https://img.shields.io/badge/-✨%20Style%20Selection-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
+      <tr>
+      <td>08</td>
+      <td>Student List</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/lista-estudantes">
+           <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
+     <tr>
+      <td>09</td>
+      <td>Product Filter</td>
+      <td align="center">
+        <a href="https://github.com/AngeloSouza1/filtrar-produtos">
+        <img align="center" alt="PF" src="https://img.shields.io/badge/-🔍%20Product%20Filter-0000FF?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
+    </tbody>
+  <tfoot></tfoot>
+</table>
+
+
+
+
+
+
+
+
+
 
 <div style="display: flex; align-items: center;">
   <h2 id="contato" style="margin-right: 10px;">Contate me!</h2>
@@ -214,5 +295,5 @@
 </p>
 
 <p align="center">
-  <img alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img src="https://github.com/AngeloSouza1/tmp/raw/main/capa.gif" alt="Descrição da imagem">
 </p>
