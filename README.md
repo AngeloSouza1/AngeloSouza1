@@ -169,7 +169,7 @@
   <thead>
     <tr align="left">
       <th>Nº</th>
-      <th>Repósitorio</th>
+      <th>Repositório</th>
       <th>Link</th>
     </tr>
   </thead>
@@ -179,7 +179,7 @@
       <td>Mentorship Project</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/Mentorship_Project">
-           <img align="center" alt="MP" src="https://img.shields.io/badge/-🌸%20Mentorship%20Project-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="MP" src="https://img.shields.io/badge/-🌸%20Mentorship%20Project-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>
     </tr>
@@ -188,7 +188,7 @@
       <td>Testes</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/TT1">
-           <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌊%20%20TT%201-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌊%20%20TT%201-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>
     </tr>
@@ -197,7 +197,7 @@
       <td>Testes</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/TT2">
-           <img align="center" alt="TT2" src="https://img.shields.io/badge/-🍃%20%20TT%202-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="TT2" src="https://img.shields.io/badge/-🍃%20%20TT%202-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
@@ -206,7 +206,7 @@
       <td>Testes</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/TT3">
-           <img align="center" alt="TT3" src="https://img.shields.io/badge/-💉%20%20TT%203-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="TT3" src="https://img.shields.io/badge/-💉%20%20TT%203-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
@@ -215,7 +215,7 @@
       <td>Testes</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/TT4">
-           <img align="center" alt="TT4" src="https://img.shields.io/badge/-🛡%20%20TT%204-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="TT4" src="https://img.shields.io/badge/-🛡%20%20TT%204-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
@@ -224,7 +224,7 @@
       <td>Testes</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/TT5">
-           <img align="center" alt="TT5" src="https://img.shields.io/badge/-🌐%20%20TT%205-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="TT5" src="https://img.shields.io/badge/-🌐%20%20TT%205-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
@@ -233,7 +233,7 @@
       <td>Style Selection</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/style-selection">
-           <img align="center" alt="SS" src="https://img.shields.io/badge/-✨%20Style%20Selection-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="SS" src="https://img.shields.io/badge/-✨%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
@@ -242,7 +242,7 @@
       <td>Student List</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/lista-estudantes">
-           <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-3949ab?style=for-the-badge&logoColor=white">
+           <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
@@ -251,7 +251,7 @@
       <td>Product Filter</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/filtrar-produtos">
-        <img align="center" alt="PF" src="https://img.shields.io/badge/-🔍%20Product%20Filter-3949ab?style=for-the-badge&logoColor=white">
+        <img align="center" alt="PF" src="https://img.shields.io/badge/-🔍%20Product%20Filter-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
