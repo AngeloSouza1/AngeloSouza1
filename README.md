@@ -30,6 +30,7 @@
 
 <div style="text-align: justify;">
   <img align="right" alt="Coding" width="260" src="https://github.com/AngeloSouza1/tmp/blob/main/vista.jpg" >
+ <br>
   <p>Olá!</p>
 
   <p>Sou um desenvolvedor backend dedicado a aprimorar minhas habilidades e conhecimentos na construção de soluções eficientes para aplicativos web e mobile. Em minha jornada, estou constantemente buscando aprender e me aprimorar em programação e arquitetura de software, sempre em busca de inovação e qualidade em cada projeto em que me envolvo.</p>
