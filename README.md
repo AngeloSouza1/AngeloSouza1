@@ -123,7 +123,7 @@
   </a>
 </div>
     <div style="display: flex; flex-direction: row;">
-      <img align="right" alt="Coding" width="520" height="365" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
+      <img align="right" alt="Coding" width="420" height="365" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
       <table>
             <thead>
                 <tr align="left">
