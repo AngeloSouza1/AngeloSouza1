@@ -124,6 +124,7 @@
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
 </div>
+    <img align="right" alt="Coding" width="417" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
     <div style="display: flex; flex-direction: row;">
          <table>
             <thead>
