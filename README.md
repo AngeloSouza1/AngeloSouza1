@@ -156,10 +156,10 @@
                 </tr>
                 <tr>
                     <td>03</td>
-                    <td>Calculadora Web</td>
+                    <td>Cloud Tags</td>
                     <td align="left">
-                        <a href="https://github.com/AngeloSouza1/calculadora-web">
-                            <img align="center" alt="TT2" src="https://img.shields.io/badge/-🧮%20Calculadora%20Web-563D7C?style=for-the-badge&logoColor=white">
+                        <a href="https://github.com/AngeloSouza1/mind-app">
+                            <img align="center" alt="TT2" src="https://img.shields.io/badge/-🌥️%20Cloud%20Tags-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                 </tr>
@@ -227,6 +227,15 @@
                                                   <img align="center" alt="TT5" src="https://img.shields.io/badge/-🔐%20Login%20Rails-563D7C?style=for-the-badge&logoColor=white">
                                               </a>
                                           </td>    
+                                      </tr>
+                               <tr>
+                                          <td>10</td>
+                                          <td>Calculadora Web</td>
+                    <td align="left">
+                        <a href="https://github.com/AngeloSouza1/calculadora-web">
+                            <img align="center" alt="TT2" src="https://img.shields.io/badge/-🧮%20Calculadora%20Web-563D7C?style=for-the-badge&logoColor=white">
+                        </a>
+                    </td>    
                                       </tr>
                              </tbody>
                      </tr>
