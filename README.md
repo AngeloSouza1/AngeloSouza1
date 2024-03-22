@@ -125,9 +125,8 @@
   </a>
   
 </div>
-  <img align="right" alt="Coding" width="417" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
-    <div>
-    
+  <div style="display: flex; flex-direction: row;">
+    <img align="right" alt="Coding" width="417" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
          <table>
             <thead>
                 <tr align="left">
