@@ -211,8 +211,7 @@
             <tfoot></tfoot>
         </table>
 <details align="left">
-  
-  
+
   <table>
                   <thead>
                       <tr align="left">
