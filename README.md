@@ -350,7 +350,7 @@
   <tfoot></tfoot>
 </table>
 <details align="left">
-    <summary></summary>   
+
   
   <table>
                   <thead>
@@ -360,6 +360,15 @@
                               <th>Link</th>
                              <tbody align="left">
                                       <tr>
+                                              <td>10</td>
+                                              <td>Classificados</td>
+                                          <td align="left">
+                                                <a href="https://github.com/AngeloSouza1/classificados">
+                                                <img align="center" alt="MP" src="https://img.shields.io/badge/-📋%20Classificados-563D7C?style=for-the-badge&logoColor=white">
+                                                </a>
+                                          </td>
+                                      </tr>
+                            <tr>
                                               <td>00</td>
                                               <td>Novo Repositório</td>
                                           <td align="left">
@@ -368,7 +377,7 @@
                                                 </a>
                                           </td>
                                       </tr>
-                             </tbody>
+                                </tbody>
                      </tr>
          </table> 
             </div>        
