@@ -369,11 +369,11 @@
                                           </td>
                                       </tr>
                             <tr>
-                                              <td>00</td>
-                                              <td>Novo Repositório</td>
+                                              <td>11</td>
+                                              <td>Authentic-Rails</td>
                                           <td align="left">
-                                                <a href="https://github.com/AngeloSouza1">
-                                                <img align="center" alt="MP" src="https://img.shields.io/badge/-%20Novo%20Repositório-563D7C?style=for-the-badge&logoColor=white">
+                                                <a href="https://github.com/AngeloSouza1/authentic-rails">
+                                                <img align="center" alt="MP" src="https://img.shields.io/badge/-📰%20Authentic%20Rails-563D7C?style=for-the-badge&logoColor=white">
                                                 </a>
                                           </td>
                                       </tr>
