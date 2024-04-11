@@ -165,7 +165,7 @@
                 </tr>
                 <tr>
                     <td>04</td>
-                    <td>BlogRails</td>
+                    <td>Blog Rails</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/rails-blog">
                             <img align="center" alt="TT3" src="https://img.shields.io/badge/-  📰%20Blog%20Rails-563D7C?style=for-the-badge&logoColor=white">
