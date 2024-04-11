@@ -388,7 +388,7 @@
                                       </tr>
                                <tr>
                                               <td>12</td>
-                                              <td>Student Lis</td>
+                                              <td>Student List</td>
                                           <td align="left">
                                                 <a href="https://github.com/AngeloSouza1/lista-estudantes">
                                                  <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
