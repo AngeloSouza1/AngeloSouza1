@@ -194,8 +194,8 @@
                     <td>07</td>
                     <td>Style Selection</td>
                     <td align="left">
-                         <a href="https://github.com/AngeloSouza1/password-generator">
-                            <img align="center" alt="TT3" src="https://img.shields.io/badge/-🔐%20Gerador%20Senha-563D7C?style=for-the-badge&logoColor=white">
+                         <a href="https://github.com/AngeloSouza1/style-selection">
+                            <img align="center" alt="TT3" src="https://img.shields.io/badge/-🖊️🖍️%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                 </tr>
