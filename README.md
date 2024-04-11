@@ -165,10 +165,10 @@
                 </tr>
                 <tr>
                     <td>04</td>
-                    <td>Password Generator</td>
+                    <td>BlogRails</td>
                     <td align="left">
-                        <a href="https://github.com/AngeloSouza1/password-generator">
-                            <img align="center" alt="TT3" src="https://img.shields.io/badge/-🔐%20Gerador%20Senha-563D7C?style=for-the-badge&logoColor=white">
+                        <a href="https://github.com/AngeloSouza1/rails-blog">
+                            <img align="center" alt="TT3" src="https://img.shields.io/badge/-  📰%20Blog%20Rails-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                 </tr>
@@ -194,14 +194,14 @@
                     <td>07</td>
                     <td>Style Selection</td>
                     <td align="left">
-                        <a href="https://github.com/AngeloSouza1/style-selection">
-                            <img align="center" alt="SS" src="https://img.shields.io/badge/-✨%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
+                         <a href="https://github.com/AngeloSouza1/password-generator">
+                            <img align="center" alt="TT3" src="https://img.shields.io/badge/-🔐%20Gerador%20Senha-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                 </tr>
                 <tr>
                     <td>08</td>
-                    <td>Student List</td>
+                    <td>Password Generator</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/lista-estudantes">
                             <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
