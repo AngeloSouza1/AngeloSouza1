@@ -203,8 +203,8 @@
                     <td>08</td>
                     <td>Password Generator</td>
                     <td align="left">
-                        <a href="https://github.com/AngeloSouza1/lista-estudantes">
-                            <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
+                        <a href="https://github.com/AngeloSouza1/password-generator">
+                            <img align="center" alt="SL" src="https://img.shields.io/badge/-🔐%20Password%20Generator-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                 </tr>
