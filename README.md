@@ -285,10 +285,10 @@
     </tr>
     <tr>
       <td>02</td>
-      <td>Testes</td>
+      <td>Programação</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/TT1">
-           <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌊%20%20TT%201-563D7C?style=for-the-badge&logoColor=white">
+        <a href="https://github.com/AngeloSouza1/Cursos-Desenvolvedor/tree/main/Curso-Onebit-Ruby">
+           <img align="center" alt="TT1" src="https://img.shields.io/badge/-🏆%20%20Cursos%20-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>
     </tr>
