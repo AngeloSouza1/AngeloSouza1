@@ -176,7 +176,7 @@
                     <td>05</td>
                     <td>Emoji Game</td>
                     <td align="left">
-                        <a href="https://https://github.com/AngeloSouza1/Emoji-Game">
+                        <a href="https://github.com/AngeloSouza1/Emoji-Game">
                             <img align="center" alt="TT4" src="https://img.shields.io/badge/-🎮😀%20Emoji Game-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
