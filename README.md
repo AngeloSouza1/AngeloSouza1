@@ -150,7 +150,7 @@
                     <td>Spotcod</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/spotcode"> 
-                            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
+                            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🎵%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>
                 </tr>
