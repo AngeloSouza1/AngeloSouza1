@@ -138,19 +138,19 @@
             <tbody align="left">
                 <tr>
                     <td>01</td>
-                    <td>Ticket</td>
+                   <td>Social Rails</td>
                     <td align="left">
-                        <a href="https://github.com/desenvolvendo-me/ticket-event"> 
-                            <img align="center" alt="MP" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=for-the-badge&logoColor=white">
+                        <a href="https://github.com/AngeloSouza1/social-networking"> 
+                            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Social%20Rails-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>
                 </tr>
                 <tr>
                     <td>02</td>
-                    <td>Social Rails</td>
+                    <td>Spotcod</td>
                     <td align="left">
-                        <a href="https://github.com/AngeloSouza1/social-networking"> 
-                            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Social%20Rails-563D7C?style=for-the-badge&logoColor=white">
+                        <a href="https://github.com/AngeloSouza1/spotcode"> 
+                            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>
                 </tr>
@@ -254,6 +254,17 @@
                             <img align="center" alt="TT4" src="https://img.shields.io/badge/-📒%20Todolist-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
+                                 </tr>
+                             </tbody>
+                     </tr>
+                                 <tr>
+                                          <td>13</td>
+                   <td>Ticket</td>
+                    <td align="left">
+                        <a href="https://github.com/desenvolvendo-me/ticket-event"> 
+                            <img align="center" alt="MP" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=for-the-badge&logoColor=white">
+                        </a>
+                    </td> 
                                  </tr>
                              </tbody>
                      </tr>
