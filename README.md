@@ -314,10 +314,10 @@
     </tr>
     <tr>
       <td>03</td>
-      <td>Testes</td>
+      <td>Desafio DIO</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/TT2">
-           <img align="center" alt="TT2" src="https://img.shields.io/badge/-🍃%20%20TT%202-563D7C?style=for-the-badge&logoColor=white">
+        <a href="https://github.com/AngeloSouza1/desafio-felipao-DIO/">
+           <img align="center" alt="TT2" src="https://img.shields.io/badge/-🦸%20%20Desafio%20DIO-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
