@@ -325,7 +325,7 @@
       <td>04</td>
       <td>Desafio DIO</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/desafio-felipao-DIO2">
+        <a href="https://github.com/AngeloSouza1/desafio-felipao-DIO-2">
            <img align="center" alt="TT3" src="https://img.shields.io/badge/-🏆%20%20Desafio%20Calculadora-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
