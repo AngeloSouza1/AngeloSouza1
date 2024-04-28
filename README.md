@@ -316,17 +316,17 @@
       <td>03</td>
       <td>Desafio DIO</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/desafio-felipao-DIO/">
+        <a href="https://github.com/AngeloSouza1/desafio-felipao-DIO">
            <img align="center" alt="TT2" src="https://img.shields.io/badge/-🦸%20%20Desafio%20Hero-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
     <tr>
       <td>04</td>
-      <td>Testes</td>
+      <td>Desafio DIO</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/TT3">
-           <img align="center" alt="TT3" src="https://img.shields.io/badge/-💉%20%20TT%203-563D7C?style=for-the-badge&logoColor=white">
+        <a href="https://github.com/AngeloSouza1/desafio-felipao-DIO2">
+           <img align="center" alt="TT3" src="https://img.shields.io/badge/-🏆%20%20Desafio%20Calculadora-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
@@ -436,6 +436,15 @@
                                       </tr>
                                 </tbody>
                      </tr>
+                    <tr>
+      <td>15</td>
+      <td>Testes</td>
+      <td align="left">
+        <a href="https://github.com/AngeloSouza1/TT3">
+           <img align="center" alt="TT3" src="https://img.shields.io/badge/-💉%20%20TT%203-563D7C?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+    </tr>
          </table> 
             </div>        
 </details>
