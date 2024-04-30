@@ -191,7 +191,7 @@
                     </td>    
                 </tr>
                    <tr>
-                    <td>08</td>
+                    <td>07</td>
                     <td>Password Generator</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/password-generator">
@@ -211,7 +211,7 @@
                               <th>Link</th>
                              <tbody align="left">
                                       <tr>
-                                          <td>09</td>
+                                          <td>08</td>
                                           <td>Login Rails</td>
                                           <td align="left">
                                               <a href="https://github.com/AngeloSouza1/login-rails">
@@ -220,7 +220,7 @@
                                           </td>    
                                       </tr>
                                <tr>
-                                          <td>10</td>
+                                          <td>09</td>
                                           <td>Calculadora Web</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/calculadora-web">
@@ -229,7 +229,7 @@
                     </td>   
                                       </tr>
                    <tr>
-                                          <td>11</td>
+                                          <td>10</td>
                                             <td>Find my Coffee</td>
                     <td align="left">
                        <a href="https://github.com/AngeloSouza1/find-my-coffee">
@@ -238,7 +238,7 @@
                     </td>    
                                       </tr>
                                  <tr>
-                                          <td>12</td>
+                                          <td>11</td>
                    <td>TodoList</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/TodoList">
@@ -249,7 +249,7 @@
                              </tbody>
                      </tr>
                                  <tr>
-                                          <td>13</td>
+                                          <td>12</td>
                    <td>Ticket</td>
                     <td align="left">
                         <a href="https://github.com/desenvolvendo-me/ticket-event"> 
