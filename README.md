@@ -111,6 +111,7 @@
 [![JetBrains](https://img.shields.io/badge/JetBrains-212121?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![VSCode](https://img.shields.io/badge/VSCode-0288d1?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Godot](https://img.shields.io/badge/Godot-5A5A5A?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
 
 
 </p>
