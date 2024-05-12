@@ -138,7 +138,7 @@
             <tbody align="left">
                 <tr>
                     <td>01</td>
-                   <td>Projeto-Estudo</td>
+                   <td>Projeto-Dio</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/social-networking"> 
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Social%20Rails-563D7C?style=for-the-badge&logoColor=white">
@@ -147,7 +147,7 @@
                 </tr>
                 <tr>
                     <td>02</td>
-                    <td>Projeto-Estudo</td>
+                    <td>Projeto-Onebite</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/spotcode"> 
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🎵%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
@@ -156,7 +156,7 @@
                 </tr>
                 <tr>
                     <td>03</td>
-                    <td>Projeto-Estudo</td>
+                    <td>Projeto-Dio</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/mind-app">
                             <img align="center" alt="TT2" src="https://img.shields.io/badge/-🌥️%20Cloud%20Tags-563D7C?style=for-the-badge&logoColor=white">
@@ -165,7 +165,7 @@
                 </tr>
                 <tr>
                     <td>04</td>
-                    <td>Projeto-Estudo</td>
+                    <td>Projeto-Onebite</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/rails-blog">
                             <img align="center" alt="TT3" src="https://img.shields.io/badge/-  📰%20Blog%20Rails-563D7C?style=for-the-badge&logoColor=white">
@@ -221,7 +221,7 @@
                                       </tr>
                                <tr>
                                           <td>09</td>
-                                          <td>Calculadora Web</td>
+                                          <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/calculadora-web">
                             <img align="center" alt="TT2" src="https://img.shields.io/badge/-🧮%20Calculadora%20Web-563D7C?style=for-the-badge&logoColor=white">
@@ -230,7 +230,7 @@
                                       </tr>
                    <tr>
                                           <td>10</td>
-                                            <td>Find my Coffee</td>
+                                            <td>Projeto-Onebite</td>
                     <td align="left">
                        <a href="https://github.com/AngeloSouza1/find-my-coffee">
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-☕%20Find%20My%20Coffee-563D7C?style=for-the-badge&logoColor=white">
@@ -239,7 +239,7 @@
                                       </tr>
                                  <tr>
                                           <td>11</td>
-                   <td>TodoList</td>
+                   <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/TodoList">
                             <img align="center" alt="TT4" src="https://img.shields.io/badge/-📒%20Todolist-563D7C?style=for-the-badge&logoColor=white">
@@ -250,7 +250,7 @@
                      </tr>
                                  <tr>
                                           <td>12</td>
-                   <td>Ticket</td>
+                   <td>DesenvolvendoME</td>
                     <td align="left">
                         <a href="https://github.com/desenvolvendo-me/ticket-event"> 
                             <img align="center" alt="MP" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=for-the-badge&logoColor=white">
