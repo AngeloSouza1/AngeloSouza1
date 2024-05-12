@@ -138,7 +138,7 @@
             <tbody align="left">
                 <tr>
                     <td>01</td>
-                   <td>Projeto Estudo</td>
+                   <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/social-networking"> 
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Social%20Rails-563D7C?style=for-the-badge&logoColor=white">
@@ -147,7 +147,7 @@
                 </tr>
                 <tr>
                     <td>02</td>
-                    <td>Spotcod</td>
+                    <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/spotcode"> 
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🎵%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
@@ -156,7 +156,7 @@
                 </tr>
                 <tr>
                     <td>03</td>
-                    <td>Cloud Tags</td>
+                    <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/mind-app">
                             <img align="center" alt="TT2" src="https://img.shields.io/badge/-🌥️%20Cloud%20Tags-563D7C?style=for-the-badge&logoColor=white">
@@ -165,7 +165,7 @@
                 </tr>
                 <tr>
                     <td>04</td>
-                    <td>Blog Rails</td>
+                    <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/rails-blog">
                             <img align="center" alt="TT3" src="https://img.shields.io/badge/-  📰%20Blog%20Rails-563D7C?style=for-the-badge&logoColor=white">
@@ -174,7 +174,7 @@
                 </tr>
                 <tr>
                     <td>05</td>
-                    <td>Emoji Game</td>
+                    <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/Emoji-Game">
                             <img align="center" alt="TT4" src="https://img.shields.io/badge/-🎮😀%20Emoji Game-563D7C?style=for-the-badge&logoColor=white">
@@ -183,7 +183,7 @@
                 </tr>
                 <tr>
                     <td>06</td>
-                    <td>Send Ticket</td>
+                    <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/send-ticket">
                             <img align="center" alt="TT5" src="https://img.shields.io/badge/-🎫%20Send%20Ticket-563D7C?style=for-the-badge&logoColor=white">
@@ -192,7 +192,7 @@
                 </tr>
                    <tr>
                     <td>07</td>
-                    <td>Password Generator</td>
+                    <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/password-generator">
                             <img align="center" alt="SL" src="https://img.shields.io/badge/-🔐%20Password%20Generator-563D7C?style=for-the-badge&logoColor=white">
@@ -212,7 +212,7 @@
                              <tbody align="left">
                                       <tr>
                                           <td>08</td>
-                                          <td>Login Rails</td>
+                                          <td>Projeto-Estudo</td>
                                           <td align="left">
                                               <a href="https://github.com/AngeloSouza1/login-rails">
                                                   <img align="center" alt="TT5" src="https://img.shields.io/badge/-🔐%20Login%20Rails-563D7C?style=for-the-badge&logoColor=white">
