@@ -207,8 +207,8 @@
                  <thead>
                       <tr align="left">
                               <th>Nº</th>
-                              <th>Projeto</th>
-                              <th>Link</th>
+                              <th>Descrição</th>
+                              <th>Link Repositório</th>
                              <tbody align="left">
                                       <tr>
                                           <td>08</td>
