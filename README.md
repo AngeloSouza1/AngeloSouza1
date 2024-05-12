@@ -280,14 +280,14 @@
   <thead>
     <tr align="left">
       <th>Nº</th>
-        <th>Descrição</th>
-        <th>Link Repositório</th>
+         <th>Descrição</th>
+         <th>Link Repositório</th>
     </tr>
   </thead>
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Mentorship Project</td>
+      <td>DesenvolvendoME</td>
       <td align="center">
         <a href="https://github.com/AngeloSouza1/Mentorship_Project">
            <img align="center" alt="MP" src="https://img.shields.io/badge/-🌸%20Mentorship%20Project-563D7C?style=for-the-badge&logoColor=white">
@@ -296,7 +296,7 @@
     </tr>
     <tr>
       <td>02</td>
-      <td>Programação</td>
+      <td>Programação-Estudo</td>
       <td align="left">
         <a href="https://github.com/AngeloSouza1/Cursos-Desenvolvedor/tree/main/Curso-Onebit-Ruby">
            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🏆%20%20Cursos%20-563D7C?style=for-the-badge&logoColor=white">
@@ -341,7 +341,7 @@
     </tr>
      <tr>
       <td>07</td>
-      <td>Style Selection</td>
+      <td>Programação-Estudo</td>
       <td align="left">
         <a href="https://github.com/AngeloSouza1/style-selection">
            <img align="center" alt="SS" src="https://img.shields.io/badge/-🖊️🖍️%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
@@ -350,7 +350,7 @@
     </tr>
       <tr>
       <td>08</td>
-      <td>Student List</td>
+      <td>Programação-Estudo</td>
       <td align="left">
         <a href="https://github.com/AngeloSouza1/lista-estudantes">
            <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
@@ -359,7 +359,7 @@
     </tr>
      <tr>
       <td>09</td>
-      <td>Product Filter</td>
+      <td>Programação-Estudo</td>
       <td align="left">
         <a href="https://github.com/AngeloSouza1/filtrar-produtos">
         <img align="center" alt="PF" src="https://img.shields.io/badge/-🔍%20Product%20Filter-563D7C?style=for-the-badge&logoColor=white">
@@ -376,12 +376,12 @@
                   <thead>
                       <tr align="left">
                               <th>Nº</th>
-                              <th>Repositóio</th>
-                              <th>Link</th>
+                             <th>Descrição</th>
+                             <th>Link Repositório</th>
                              <tbody align="left">
                                       <tr>
                                               <td>10</td>
-                                              <td>Classificados</td>
+                                              <td>Programação-Estudo</td>
                                           <td align="left">
                                                 <a href="https://github.com/AngeloSouza1/classificados">
                                                 <img align="center" alt="MP" src="https://img.shields.io/badge/-📋%20Classificados-563D7C?style=for-the-badge&logoColor=white">
@@ -390,7 +390,7 @@
                                       </tr>
                             <tr>
                                               <td>11</td>
-                                              <td>Authentic-Rails</td>
+                                              <td>Programação-Estudo</td>
                                           <td align="left">
                                                 <a href="https://github.com/AngeloSouza1/authentic-rails">
                                                 <img align="center" alt="MP" src="https://img.shields.io/badge/-📰%20Authentic%20Rails-563D7C?style=for-the-badge&logoColor=white">
@@ -399,7 +399,7 @@
                                       </tr>
                                <tr>
                                               <td>12</td>
-                                              <td>Student List</td>
+                                              <td>Programação-Estudo</td>
                                           <td align="left">
                                                 <a href="https://github.com/AngeloSouza1/lista-estudantes">
                                                  <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
