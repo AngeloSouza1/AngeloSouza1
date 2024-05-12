@@ -132,7 +132,7 @@
                 <tr align="left">
                     <th>Nº</th>
                     <th>Descrição</th>
-                    <th>Link</th>
+                    <th>Link Repositório</th>
                 </tr>
             </thead>
             <tbody align="left">
