@@ -131,8 +131,8 @@
             <thead>
                 <tr align="left">
                     <th>Nº</th>
-                    <th>Projeto</th>
-                    <th>Link</th>
+                    <th>Descrição</th>
+                    <th>Link do Repositório</th>
                 </tr>
             </thead>
             <tbody align="left">
