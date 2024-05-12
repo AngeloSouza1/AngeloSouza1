@@ -126,7 +126,7 @@
   
 </div>
   <div style="display: flex; flex-direction: row;">
-    <img align="right" alt="Coding" width="390" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
+    <img align="right" alt="Coding" width="396" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
          <table >
             <thead>
                 <tr align="left">
