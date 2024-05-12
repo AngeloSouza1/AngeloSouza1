@@ -138,7 +138,7 @@
             <tbody align="left">
                 <tr>
                     <td>01</td>
-                   <td>Social Rails</td>
+                   <td>Projeto Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/social-networking"> 
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Social%20Rails-563D7C?style=for-the-badge&logoColor=white">
