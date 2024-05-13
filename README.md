@@ -324,10 +324,10 @@
     </tr>
      <tr>
       <td>05</td>
-      <td>Imersão-Alura</td>
+      <td>Imersão Alura</td>
       <td align="left">
         <a href="https://github.com/AngeloSouza1/Imersao-Alura-IA">
-           <img align="center" alt="TT4" src="https://img.shields.io/badge/-🤖%20%20IA-563D7C?style=for-the-badge&logoColor=white">
+           <img align="center" alt="TT4" src="https://img.shields.io/badge/-🤖%20%20IA%20Google Gemini-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
