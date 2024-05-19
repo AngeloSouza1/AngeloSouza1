@@ -184,10 +184,10 @@
                 </tr>
                 <tr>
                     <td>06</td>
-                    <td>Projeto-Estudo</td>
+                    <td>Projeto-Dio</td>
                     <td align="left">
-                        <a href="https://github.com/AngeloSouza1/send-ticket">
-                            <img align="center" alt="TT5" src="https://img.shields.io/badge/-🎫%20Send%20Ticket-563D7C?style=for-the-badge&logoColor=white">
+                        <a href="https://github.com/AngeloSouza1/proj-godot">
+                            <img align="center" alt="TT5" src="https://img.shields.io/badge/-🎮%20Trilha%20Godot-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                 </tr>
