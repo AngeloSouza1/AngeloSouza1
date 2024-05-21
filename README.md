@@ -342,10 +342,10 @@
     </tr>
      <tr>
       <td>06</td>
-      <td>Testes</td>
+      <td>Programação-Dio</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/TT5">
-           <img align="center" alt="TT5" src="https://img.shields.io/badge/-🌐%20%20TT%205-563D7C?style=for-the-badge&logoColor=white">
+        <a href="https://github.com/AngeloSouza1/app-estoque-console">
+           <img align="center" alt="TT5" src="https://img.shields.io/badge/-📚%20%20App%20Estoque-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
