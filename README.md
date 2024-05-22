@@ -200,10 +200,10 @@
                 </tr>
                    <tr>
                     <td>07</td>
-                    <td>Projeto-Estudo</td>
+                    <td>Projeto-Dio</td>
                     <td align="left">
-                        <a href="https://github.com/AngeloSouza1/password-generator">
-                            <img align="center" alt="SL" src="https://img.shields.io/badge/-🔐%20Password%20Generator-563D7C?style=for-the-badge&logoColor=white">
+                        <a href="https://github.com/AngeloSouza1/lab-natty-or-not">
+                            <img align="center" alt="SL" src="https://img.shields.io/badge/-🔐%20lab%20IA-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                 </tr>
@@ -277,7 +277,7 @@
                     </td>    
                 </tr>
              <tr>
-                    <td>07</td>
+                    <td>14</td>
                     <td>Projeto-Estudo</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/password-generator">
@@ -285,12 +285,6 @@
                         </a>
                     </td>    
                 </tr>
-                 
-                 
-                 
-                 
-                 
-                 
                  </table> 
             </div>        
 </details>
