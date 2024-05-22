@@ -367,10 +367,10 @@
     </tr>
      <tr>
       <td>07</td>
-      <td>Programação-Estudo</td>
+      <td>Estudo-Acad_Ruby</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/style-selection">
-           <img align="center" alt="SS" src="https://img.shields.io/badge/-🖊️🖍️%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
+        <a href="https://github.com/AngeloSouza1/academia-ruby">
+           <img align="center" alt="SS" src="https://img.shields.io/badge/-♦️%20Academia%20Ruby-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
     </tr>
