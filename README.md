@@ -276,7 +276,22 @@
                         </a>
                     </td>    
                 </tr>
-         </table> 
+             <tr>
+                    <td>07</td>
+                    <td>Projeto-Estudo</td>
+                    <td align="left">
+                        <a href="https://github.com/AngeloSouza1/password-generator">
+                            <img align="center" alt="SL" src="https://img.shields.io/badge/-🔐%20Password%20Generator-563D7C?style=for-the-badge&logoColor=white">
+                        </a>
+                    </td>    
+                </tr>
+                 
+                 
+                 
+                 
+                 
+                 
+                 </table> 
             </div>        
 </details>
    </div>
