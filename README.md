@@ -2,7 +2,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/17b292a6-a047-4334-af45-789de9ba1867" />
 &nbsp;&nbsp;&nbsp;
 
-
+<a href="#top">
+    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+  </a>
 <div>
   <p align="center">
     <a href="#sobre-Mim">Sobre mim</a> •
@@ -29,9 +31,7 @@
 
 ![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/848aa3b7-6eab-41d9-9956-49a586a64e89)
 
-  <a href="#top">
-    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
-  </a>
+  
 </div>
 
 
