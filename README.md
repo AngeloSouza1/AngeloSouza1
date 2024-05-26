@@ -1,3 +1,4 @@
+
 <a name="top"></a>
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/17b292a6-a047-4334-af45-789de9ba1867" />
@@ -88,16 +89,7 @@ Olá!
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org/)
-
-
-
-
-
-
-
-
 </p>
-
 <br>
 <br>
 
@@ -136,6 +128,7 @@ Olá!
 <br>
 
 <div style="display: flex; align-items: center;">
+  <br>
   
   ![projetos](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/c6ab7df6-e95d-4895-9be1-6a6661763fb4)
 
@@ -145,6 +138,7 @@ Olá!
   </a>
  <br>
 </div>
+<br>
   <div style="display: flex; flex-direction: row;">
     <img align="right" alt="Coding" width="420" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
          <table >
@@ -308,12 +302,14 @@ Olá!
 <div style="display: flex; align-items: center;">
 
   ![principaisrep](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/deb4fbb8-4729-45ae-9f72-9edc6691f770)
-
+  <br>
    <h4>Conhecimentos e Testes</h4>
+ 
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
 </div>
+<br>
 <div style="display: flex; flex-direction: row;">
 <img align="right" alt="Coding" width="385" height="415" src="https://github.com/AngeloSouza1/tmp/blob/main/84409.jpg">
 <table>
