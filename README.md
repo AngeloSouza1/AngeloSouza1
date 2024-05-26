@@ -28,23 +28,24 @@
 <br>
 <div style="display: flex; align-items: center;">
 
-  ![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/987bf30f-e63d-45db-aad6-ea5f5f982831)
+![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/45bd54a1-91ef-4097-88c3-0fe81b92b112)
+
  
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
 </div>
 
-<div style="text-align: justify;">
+
 <br>
 Olá!  
 <br>  
+<div style="text-align: justify;">
 Sou um desenvolvedor back-end em início de carreira, dedicado a criar soluções robustas e eficientes para desafios complexos. Possuo experiência em linguagens de programação como Ruby, Rails e Java, além de trabalhar com bancos de dados relacionais e não relacionais, incluindo MySQL e PostgreSQL.
-<p>
 Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, contribuindo para o sucesso das equipes e organizações com as quais colaboro. Estou comprometido em manter-me atualizado com as últimas tendências e melhores práticas em desenvolvimento de software, buscando continuamente a excelência e a inovação em todas as minhas entregas. 
-
 </div>
 
+<br>
 <br>
 
 <div style="display: flex; align-items: center;">
@@ -57,14 +58,17 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
   </a>
 </div>
 
-
+<br>
   <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AngeloSouza1&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-iota-five-91.vercel.app/api/top-langs/?username=AngeloSouza1&show_icons=true&theme=radical&layout=compact" />
  </div>
 
+<br>
 <div style="display: flex; align-items: center;">
-  <h2 id="linguagens" style="margin-right: 10px;">Linguagens</h2>
+ 
+   ![linguagem](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/73e742be-3450-4bd3-900b-e007a0358fd0)
+
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
