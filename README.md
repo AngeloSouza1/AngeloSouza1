@@ -236,9 +236,11 @@ Olá!
  <table>
                  <thead>
                       <tr align="left">
-                              <th>Nº</th>
-                              <th>Descrição</th>
+                              <th>ID</th>
+                              <th>Nome Projeto</th>
                               <th>Link Repositório</th>
+                              <th>Descrição sobre o repositório</th>
+                              <th>Status</th>
                              <tbody align="left">
                                       <tr>
                                           <td>08</td>
