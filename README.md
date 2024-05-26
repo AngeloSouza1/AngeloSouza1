@@ -30,8 +30,6 @@
 
 ![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/848aa3b7-6eab-41d9-9956-49a586a64e89)
 
-
-
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
@@ -51,8 +49,7 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
 
 <div style="display: flex; align-items: center;">
 
-![metricas](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/efe68bde-75d5-4459-878e-047b31107feb)
-
+![metricas](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/2469665c-6aa3-4478-83ff-47e3ea90cb88)
 
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
@@ -66,9 +63,11 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
  </div>
 
 <br>
+<br>
+<br>
 <div style="display: flex; align-items: center;">
  
-   ![linguagem](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/73e742be-3450-4bd3-900b-e007a0358fd0)
+![linguagens](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/65ee9547-cdba-4f7c-8cfd-fa9b664f263d)
 
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
@@ -103,7 +102,10 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
 <br>
 
 <div style="display: flex; align-items: center;">
-  <h2 id="tecnologias" style="margin-right: 10px;">Tecnologias</h2>
+  
+  ![tecnologia](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/958557da-1c25-4f23-831d-83787b50efe5)
+
+
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
