@@ -1,9 +1,5 @@
 <a name="top"></a>
 
-
-
-
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/0001621c-59a1-4193-9a0f-52078ecfbb39" />
 &nbsp;&nbsp;&nbsp;
 
@@ -28,11 +24,13 @@
     </a>
 </div>
 
-
+<br>
 
 
 <div style="display: flex; align-items: center;">
-  <h2 id="sobre-mim" style="margin-right: 10px;">Sobre mim</h2>
+
+  ![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/987bf30f-e63d-45db-aad6-ea5f5f982831)
+  
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
