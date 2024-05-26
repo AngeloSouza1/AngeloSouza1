@@ -4,15 +4,20 @@
 
 <a name="top"></a>
 <div>
-  <p align="center">
-    <a href="#sobre-Mim">Sobre mim</a> •
-    <a href="#metricas-e-resultados">Métricas e Resultados</a> • 
-    <a href="#linguagens">Linguagens</a> • 
-    <a href="#tecnologias">Tecnologias</a> • 
-    <a href="#projetos">Projetos</a> • 
-    <a href="#principais-repositorios">Principais Repositórios</a> • 
-    <a href="#contato">Contate-me!</a>
-  </p>
+<p align="center" >
+  <a href="https://www.linkedin.com/in/angeloafsouza" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=linkedin" alt="linkedin"/> 
+  </a>
+  <a href="https://wakatime.com/@AAFS1981" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=wakatime" alt="wakatime"/>
+  </a>
+  <a href="https://www.facebook.com/angelo.souza.3950/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=facebook" alt="facebook"/>
+  </a>
+  <a href="https://www.instagram.com/angeloafdesouza/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+</p>
 </div>
 
 <br>
@@ -579,24 +584,14 @@ Olá!
  <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
- 
+ </div>
 
-</div>
 
-<p align="center" >
-  <a href="https://www.linkedin.com/in/angeloafsouza" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=linkedin" alt="linkedin"/> 
-  </a>
-  <a href="https://wakatime.com/@AAFS1981" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=wakatime" alt="wakatime"/>
-  </a>
-  <a href="https://www.facebook.com/angelo.souza.3950/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=facebook" alt="facebook"/>
-  </a>
-  <a href="https://www.instagram.com/angeloafdesouza/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-</p>
+
+
+
+
+
 
 <p align="center">
   <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
