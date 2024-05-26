@@ -2,9 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/17b292a6-a047-4334-af45-789de9ba1867" />
 &nbsp;&nbsp;&nbsp;
 
-<a href="#top">
-    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
-  </a>
+<a name="top"></a>
 <div>
   <p align="center">
     <a href="#sobre-Mim">Sobre mim</a> •
@@ -16,7 +14,7 @@
     <a href="#contato">Contate-me!</a>
   </p>
 </div>
-<a name="top"></a>
+
 <br>
 
 <div align="center">
