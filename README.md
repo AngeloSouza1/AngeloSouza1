@@ -1,6 +1,4 @@
 
-<a name="top"></a>
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/17b292a6-a047-4334-af45-789de9ba1867" />
 &nbsp;&nbsp;&nbsp;
 
@@ -16,7 +14,7 @@
     <a href="#contato">Contate-me!</a>
   </p>
 </div>
-
+<a name="top"></a>
 <br>
 
 <div align="center">
@@ -362,7 +360,9 @@ Olá!
            <img align="center" alt="MP" src="https://img.shields.io/badge/-🌸%20Mentorship%20Project-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>
-    </tr>
+      <td>Criado para aplicar e demonstrar as habilidades adquiridas ao longo da mentoria.</td>
+      <td>Concluído</td>
+      </tr>
     <tr>
       <td>02</td>
       <td>Programação-Estudo</td>
@@ -371,7 +371,9 @@ Olá!
            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🏆%20%20Cursos%20-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>
-    </tr>
+      <td>Aqui compartilho materiais e projetos relacionados aos cursos que estou cursando ou concluí</td>
+      <td>Em desenvolvimento</td>
+     </tr>
     <tr>
       <td>03</td>
       <td>Desafio DIO</td>
@@ -380,6 +382,8 @@ Olá!
            <img align="center" alt="TT2" src="https://img.shields.io/badge/-🦸%20%20Desafio%20Hero-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
+      <td>Desafio da DIO proposto pelo felipao -Classificador de nível de Herói</td>
+      <td>Concluído</td>
     </tr>
     <tr>
       <td>04</td>
@@ -389,6 +393,9 @@ Olá!
            <img align="center" alt="TT3" src="https://img.shields.io/badge/-🏆%20%20Desafio%20Calculadora-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
+      <td>Desafio da DIO proposto pelo felipao - Calculadora de partidas Rankeadas</td>
+      <td>Concluído</td>
+    </tr>
     </tr>
      <tr>
       <td>05</td>
@@ -398,7 +405,9 @@ Olá!
            <img align="center" alt="TT4" src="https://img.shields.io/badge/-🤖%20%20IA%20Google Gemini-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>
+      <td>Imersão - Inteligência Artificial</td>
+      <td>Concluído</td>
+     </tr>
      <tr>
       <td>06</td>
       <td>Programação-Dio</td>
@@ -407,7 +416,9 @@ Olá!
            <img align="center" alt="TT5" src="https://img.shields.io/badge/-📚%20%20App%20Estoque-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>
+      <td>Aplicação em Ruby, com a finalidade de cadastrar produtos e baixa da quantidade no estoque</td>
+      <td>Concluído</td>
+     </tr>
      <tr>
       <td>07</td>
       <td>Estudo-Acad_Ruby</td>
@@ -416,7 +427,9 @@ Olá!
            <img align="center" alt="SS" src="https://img.shields.io/badge/-♦️%20Academia%20Ruby-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>
+      <td>Aplicação em Ruby, com a finalidade de cadastrar produtos e baixa da quantidade no estoque</td>
+      <td>Concluído</td>
+     </tr>
       <tr>
       <td>08</td>
       <td>Programação-Estudo</td>
@@ -425,7 +438,9 @@ Olá!
            <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>
+      <td>Aplicação com relação de estudantes, visualizando seus dados através de uma lista dinâmica</td>
+      <td>Concluído</td>
+      </tr>
      <tr>
       <td>09</td>
       <td>Programação-Estudo</td>
@@ -434,7 +449,9 @@ Olá!
         <img align="center" alt="PF" src="https://img.shields.io/badge/-🔍%20Product%20Filter-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>
+        <td>Oferece aos usuários uma maneira fácil e intuitiva de encontrar produtos específicos por meio de filtros de busca, como nome, categoria e preço</td>
+        <td>Concluído</td>
+     </tr>
     </tbody>
   <tfoot></tfoot>
 </table>
