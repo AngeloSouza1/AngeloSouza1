@@ -182,7 +182,7 @@ Olá!
                             <img align="center" alt="TT2" src="https://img.shields.io/badge/-🌥️%20Cloud%20Tags-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
-                     <td>Plataforma web que simplifica a organização de conteúdos através da criação e gestão de tags personalizadas</td>
+                     <td>Projeto Web que simplifica a organização de conteúdos através da criação e gestão de tags personalizadas</td>
                      <td> Concluído</td>
                 </tr>
                 <tr>
