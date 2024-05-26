@@ -250,6 +250,8 @@ Olá!
                                                   <img align="center" alt="TT5" src="https://img.shields.io/badge/-🔐%20Login%20Rails-563D7C?style=for-the-badge&logoColor=white">
                                               </a>
                                           </td>    
+                                     <td>Desenvolvimento de um sistema de login robusto utilizando Ruby on Rails</td>
+                                     <td>Concluído</td>
                                       </tr>
                                <tr>
                                           <td>09</td>
@@ -259,7 +261,10 @@ Olá!
                             <img align="center" alt="TT2" src="https://img.shields.io/badge/-🧮%20Calculadora%20Web-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>   
-                                      </tr>
+                        <td>A Calculadora Web é uma aplicação baseada na web que permite aos usuários realizar operações matemáticas simples</td>
+                        <td>Concluído</td>       
+                               
+                    </tr>
                    <tr>
                                           <td>10</td>
                                             <td>Projeto-Onebite</td>
