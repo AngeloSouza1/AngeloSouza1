@@ -28,9 +28,10 @@
 <br>
 <div style="display: flex; align-items: center;">
 
-![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/3450dcbe-e164-4dc4-aa4e-7e2a06b01e51)
+![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/848aa3b7-6eab-41d9-9956-49a586a64e89)
 
- 
+
+
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
