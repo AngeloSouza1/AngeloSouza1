@@ -327,10 +327,8 @@ Olá!
             </div>        
 </details>
    </div>
-
 <br>
 <br>
-
 <div style="display: flex; align-items: center;">
 
   ![principaisrep](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/deb4fbb8-4729-45ae-9f72-9edc6691f770)
@@ -340,14 +338,15 @@ Olá!
   </a>
 </div>
 <br>
-<div style="display: flex; flex-direction: row;">
-<img align="right" alt="Coding" width="385" height="415" src="https://github.com/AngeloSouza1/tmp/blob/main/84409.jpg">
+   <div style="display: flex; justify-content: center;">
 <table>
   <thead>
     <tr align="left">
-      <th>Nº</th>
-         <th>Descrição</th>
-         <th>Link Repositório</th>
+        <th>ID</th>
+        <th>Nome Projeto</th>
+        <th>Link Repositório</th>
+        <th>Descrição sobre o repositório</th>
+        <th>Status</th>
     </tr>
   </thead>
   <tbody align="left">
