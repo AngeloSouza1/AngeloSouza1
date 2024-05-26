@@ -577,8 +577,6 @@ Olá!
 </div>
 
 <div style="display: flex; align-items: center;">
-
-
   
   ![contato](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/646ebb63-ffa5-46c4-987b-f92648173226)
 
@@ -587,16 +585,8 @@ Olá!
   </a>
  </div>
 
-
-
-
-
-
-
-
 <p align="center">
   <a href="mailto:angeloafdesouza@gmail.com" style="background-color: #05122A; color: white; padding: 10px 20px; border-radius: 20px; text-decoration: none;">Contato por E-mail</a>
 </p>
-
 
 
