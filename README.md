@@ -28,7 +28,7 @@
 <br>
 <div style="display: flex; align-items: center;">
 
-![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/45bd54a1-91ef-4097-88c3-0fe81b92b112)
+![faixa-sobre](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/3450dcbe-e164-4dc4-aa4e-7e2a06b01e51)
 
  
   <a href="#top">
