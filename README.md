@@ -136,11 +136,14 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
 <br>
 
 <div style="display: flex; align-items: center;">
-  <h2 id="projetos" style="margin-right: 10px;">Projetos</h2>
+  
+  ![projetos](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/c6ab7df6-e95d-4895-9be1-6a6661763fb4)
+
+ 
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
-  
+ <br>
 </div>
   <div style="display: flex; flex-direction: row;">
     <img align="right" alt="Coding" width="420" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
@@ -303,8 +306,10 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
 <br>
 
 <div style="display: flex; align-items: center;">
-    <h2 id="principais-repositorios" style="margin-right: 10px;">Principais Repositórios</h2>
-     <h4>Conhecimentos e Testes</h4>
+
+  ![principaisrep](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/deb4fbb8-4729-45ae-9f72-9edc6691f770)
+
+   <h4>Conhecimentos e Testes</h4>
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
@@ -508,7 +513,9 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
 
 
 <div style="display: flex; align-items: center;">
-  <h2 id="contato" style="margin-right: 10px;">Contate me!</h2>
+  
+  ![contato](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/646ebb63-ffa5-46c4-987b-f92648173226)
+  
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
