@@ -272,7 +272,9 @@ Olá!
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-☕%20Find%20My%20Coffee-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
-                                      </tr>
+                        <td>Este projeto tem como objetivo, encontrar cafeterias próximas ao usuário</td>
+                        <td>Concluído</td>               
+                              </tr>
                                  <tr>
                                           <td>11</td>
                    <td>Projeto-Estudo</td>
@@ -281,18 +283,22 @@ Olá!
                             <img align="center" alt="TT4" src="https://img.shields.io/badge/-📒%20Todolist-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
-                                 </tr>
-                             </tbody>
+                        <td>Esta aplicação foi desenvolvida para ajudar os usuários a organizarem suas tarefas diárias de forma eficiente</td>
+                        <td>Concluído</td>    
+                             </tr>
+                           </tbody>
                      </tr>
-                                 <tr>
-                                          <td>12</td>
-                   <td>DesenvolvendoME</td>
+                          <tr>
+                            <td>12</td>
+                   <td>Mentoria</td>
                     <td align="left">
                         <a href="https://github.com/desenvolvendo-me/ticket-event"> 
                             <img align="center" alt="MP" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td> 
-                                 </tr>
+                          <td>Este projeto tem como objetivo, a criação de uma plataforma de eventos com emissao de tickets</td>
+                        <td>Em desenvolvimento</td>   
+                          </tr>
                              </tbody>
                      </tr>
                     <tr>
