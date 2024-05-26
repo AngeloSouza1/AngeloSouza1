@@ -215,6 +215,8 @@ Olá!
                             <img align="center" alt="TT5" src="https://img.shields.io/badge/-🎮%20Trilha%20Godot-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
+                   <td>É um projeto construído em Godot, para criação de jogos</td>
+                   <td> Concluído</td>
                 </tr>
                    <tr>
                     <td>07</td>
@@ -224,7 +226,9 @@ Olá!
                             <img align="center" alt="SL" src="https://img.shields.io/badge/-🔐%20lab%20IA-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
-                </tr>
+                   <td>Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"</td>
+                   <td> Concluído</td>
+                   </tr>
             </tbody>
             <tfoot></tfoot>
         </table>
