@@ -516,7 +516,9 @@ Olá!
                                                   <img align="center" alt="TT2" src="https://img.shields.io/badge/-🍃%20%20TT%202-563D7C?style=for-the-badge&logoColor=white">
                                                 </a>
                                           </td>
-                                      </tr>
+                                      <td>Missão Vaga : Missão Vaga : Teste Técnico 2 (Mentoria DesenvolvendoMe)</td>
+                                      <td>Concluído</td>     
+                                  </tr>
                                 </tbody>
                      </tr>
                     <tr>
@@ -527,8 +529,10 @@ Olá!
            <img align="center" alt="TT3" src="https://img.shields.io/badge/-💉%20%20TT%203-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>
-           <tr>
+         <td>Missão Vaga : Teste Técnico 3 (Mentoria DesenvolvendoMe)</td>
+         <td>Concluído</td>
+      </tr>
+      <tr>
       <td>16</td>
       <td>Testes</td>
       <td align="left">
@@ -536,7 +540,9 @@ Olá!
            <img align="center" alt="TT4" src="https://img.shields.io/badge/-💉%20%20TT%204-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>              
+         <td>Missão Vaga : Teste Técnico 4 (Mentoria DesenvolvendoMe)</td>
+         <td>Concluído</td>
+      </tr>              
          <tr>
       <td>17</td>
       <td>Testes</td>
@@ -545,8 +551,10 @@ Olá!
            <img align="center" alt="TT5" src="https://img.shields.io/badge/-🌐%20%20TT%205-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-    </tr>
- <tr>
+         <td>Missão Vaga : Teste Técnico 5 (Mentoria DesenvolvendoMe)</td>
+         <td>Concluído</td>
+         </tr>
+     <tr>
       <td>18</td>
       <td>Programação-Estudo</td>
       <td align="left">
@@ -554,7 +562,9 @@ Olá!
            <img align="center" alt="SS" src="https://img.shields.io/badge/-🖊️🖍️%20Style%20Selection-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>   
-         </table> 
+         <td>Seleciona estilos do framework Bootstrap</td>
+         <td>Concluído</td>
+           </table> 
             </div>        
 </details>
    </div>
