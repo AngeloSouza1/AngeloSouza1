@@ -263,9 +263,8 @@ Olá!
                     </td>   
                         <td>A Calculadora Web é uma aplicação baseada na web que permite aos usuários realizar operações matemáticas simples</td>
                         <td>Concluído</td>       
-                               
                     </tr>
-                   <tr>
+                                     <tr>
                                           <td>10</td>
                                             <td>Projeto-Onebite</td>
                     <td align="left">
