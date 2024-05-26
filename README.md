@@ -40,8 +40,8 @@
 Olá!  
 <br>  
 <div style="text-align: justify;">
-Sou um desenvolvedor back-end em início de carreira, dedicado a criar soluções robustas e eficientes para desafios complexos. Possuo experiência em linguagens de programação como Ruby, Rails e Java, além de trabalhar com bancos de dados relacionais e não relacionais, incluindo MySQL e PostgreSQL.
-Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, contribuindo para o sucesso das equipes e organizações com as quais colaboro. Estou comprometido em manter-me atualizado com as últimas tendências e melhores práticas em desenvolvimento de software, buscando continuamente a excelência e a inovação em todas as minhas entregas. 
+  <p>Sou um desenvolvedor back-end em início de carreira, dedicado a criar soluções robustas e eficientes para desafios complexos. Possuo experiência em linguagens de programação como Ruby, Rails e Java, além de trabalhar com bancos de dados relacionais e não relacionais, incluindo MySQL e PostgreSQL.</p>
+  <p>Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, contribuindo para o sucesso das equipes e organizações com as quais colaboro. Estou comprometido em manter-me atualizado com as últimas tendências e melhores práticas em desenvolvimento de software, buscando continuamente a excelência e a inovação em todas as minhas entregas.</p>
 </div>
 
 <br>
