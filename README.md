@@ -139,14 +139,16 @@ Olá!
  <br>
 </div>
 <br>
-  <div style="display: flex; flex-direction: row;">
-    <img align="right" alt="Coding" width="420" height="360" src="https://github.com/AngeloSouza1/tmp/blob/main/imagem1read.jpg">
+
+   <div style="display: flex; justify-content: center;">
          <table >
             <thead>
                 <tr align="left">
-                    <th>Nº</th>
-                    <th>Descrição</th>
+                    <th>ID</th>
+                    <th>Nome Projeto</th>
                     <th>Link Repositório</th>
+                    <th>Descrição</th>
+                    <th>Status</th>
                 </tr>
             </thead>
             <tbody align="left">
@@ -158,7 +160,9 @@ Olá!
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Social%20Rails-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>
-                </tr>
+                    <td>Projeto de uma rede social, desenvolvido na plataforma DIO</td>
+                    <td> Concluído</td>
+                   </tr>
                 <tr>
                     <td>02</td>
                     <td>Projeto-Onebite</td>
@@ -167,6 +171,8 @@ Olá!
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🎵%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>
+                     <td>Projeto de uma plataforma de musicas, desenvolvido pela plataforma Onebite</td>
+                     <td> Concluído</td>
                 </tr>
                 <tr>
                     <td>03</td>
