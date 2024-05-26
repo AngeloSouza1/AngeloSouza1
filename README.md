@@ -171,7 +171,7 @@ Olá!
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🎵%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>
-                     <td>Projeto de uma plataforma de musicas, desenvolvido pela plataforma Onebite</td>
+                     <td>Projeto de uma aplicativo de músicas, desenvolvido pela plataforma Onebite</td>
                      <td> Concluído</td>
                 </tr>
                 <tr>
@@ -182,6 +182,8 @@ Olá!
                             <img align="center" alt="TT2" src="https://img.shields.io/badge/-🌥️%20Cloud%20Tags-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
+                     <td>Plataforma web que simplifica a organização de conteúdos através da criação e gestão de tags personalizadas</td>
+                     <td> Concluído</td>
                 </tr>
                 <tr>
                     <td>04</td>
