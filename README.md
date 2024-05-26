@@ -37,7 +37,7 @@
 
 <div style="text-align: justify;">
 <br>
-Olá! 
+Olá!  
 <br>  
 Sou um desenvolvedor back-end em início de carreira, dedicado a criar soluções robustas e eficientes para desafios complexos. Possuo experiência em linguagens de programação como Ruby, Rails e Java, além de trabalhar com bancos de dados relacionais e não relacionais, incluindo MySQL e PostgreSQL.
 <p>
@@ -48,7 +48,10 @@ Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, c
 <br>
 
 <div style="display: flex; align-items: center;">
-  <h2 id="metricas-e-resultados" style="margin-right: 10px;">Métricas e Resultados</h2>
+
+![metricas](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/efe68bde-75d5-4459-878e-047b31107feb)
+
+
   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
