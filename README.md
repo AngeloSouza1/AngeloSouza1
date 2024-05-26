@@ -471,6 +471,8 @@ Olá!
                                                 <img align="center" alt="MP" src="https://img.shields.io/badge/-📋%20Classificados-563D7C?style=for-the-badge&logoColor=white">
                                                 </a>
                                           </td>
+                                      <td>Aplicação em Rails, sobre classificação de dados</td>
+                                      <td>Concluído</td>
                                       </tr>
                             <tr>
                                               <td>11</td>
@@ -480,6 +482,8 @@ Olá!
                                                 <img align="center" alt="MP" src="https://img.shields.io/badge/-📰%20Authentic%20Rails-563D7C?style=for-the-badge&logoColor=white">
                                                 </a>
                                           </td>
+                                      <td>Testando Autenticação, Autorização e Papeis a Usuarios</td>
+                                      <td>Concluído</td>         
                                       </tr>
                                <tr>
                                               <td>12</td>
@@ -489,15 +493,19 @@ Olá!
                                                  <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
                                                 </a>
                                           </td>
-                                      </tr>
+                                         <td>Aplicação com relação de estudantes, visualizando seus dados através de uma lista dinâmica</td>
+                                         <td>Concluído</td>     
+                               </tr>
                                     <td>13</td>
                                               <td>Testes</td>
                                           <td align="left">
                                                    <a href="https://github.com/AngeloSouza1/TT1">
                                                   <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌊%20%20TT%201-563D7C?style=for-the-badge&logoColor=white">
                                                 </a>
-                                          </td>
-                                      </tr>
+                                           </td>
+                                          <td>Missão Vaga : Teste Técnico 1 (Mentoria DesenvolvendoMe)</td>
+                                          <td>Concluído</td>  
+                                    </tr>
                                 </tbody>
                      </tr>
                           </tr>
