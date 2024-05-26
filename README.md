@@ -193,6 +193,8 @@ Olá!
                             <img align="center" alt="TT3" src="https://img.shields.io/badge/-  📰%20Blog%20Rails-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
+                   <td>É uma aplicação de blog desenvolvida em Ruby on Rails.</td>
+                   <td> Concluído</td>
                 </tr>
                 <tr>
                     <td>05</td>
@@ -202,6 +204,8 @@ Olá!
                             <img align="center" alt="TT4" src="https://img.shields.io/badge/-🎮😀%20Emoji Game-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
+                   <td>É um projeto construído em Rails que explora a integração entre JavaScript e Rails para criar uma interação baseado em emojis</td>
+                   <td> Concluído</td>
                 </tr>
                 <tr>
                     <td>06</td>
