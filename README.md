@@ -147,7 +147,7 @@ Olá!
                     <th>ID</th>
                     <th>Nome Projeto</th>
                     <th>Link Repositório</th>
-                    <th>Descrição</th>
+                    <th>Descrição sobre o repositório</th>
                     <th>Status</th>
                 </tr>
             </thead>
