@@ -296,7 +296,7 @@ Olá!
                             <img align="center" alt="MP" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td> 
-                          <td>Este projeto tem como objetivo, a criação de uma plataforma de eventos com emissao de tickets</td>
+                        <td>Este projeto tem como objetivo, a criação de uma plataforma de eventos com emissao de tickets</td>
                         <td>Em desenvolvimento</td>   
                           </tr>
                              </tbody>
@@ -309,8 +309,10 @@ Olá!
                             <img align="center" alt="TT5" src="https://img.shields.io/badge/-🎫%20Send%20Ticket-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
-                </tr>
-             <tr>
+                     <td>É uma aplicação Rails que permite enviar ingressos por e-mail para estudantes</td>
+                     <td>Concluído</td>   
+                    </tr>
+                 <tr>
                     <td>14</td>
                     <td>Projeto-Estudo</td>
                     <td align="left">
@@ -318,7 +320,9 @@ Olá!
                             <img align="center" alt="SL" src="https://img.shields.io/badge/-🔐%20Password%20Generator-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
-                </tr>
+                      <td>É uma aplicação web construída em Rails que gera senhas aleatórias</td>
+                     <td>Concluído</td>   
+                 </tr>
                  </table> 
             </div>        
 </details>
@@ -332,8 +336,7 @@ Olá!
   ![principaisrep](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/deb4fbb8-4729-45ae-9f72-9edc6691f770)
   <br>
    <h4>Conhecimentos e Testes</h4>
- 
-  <a href="#top">
+   <a href="#top">
     <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
 </div>
@@ -434,8 +437,6 @@ Olá!
   <tfoot></tfoot>
 </table>
 <details align="left">
-
-  
   <table>
                   <thead>
                       <tr align="left">
