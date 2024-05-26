@@ -4,18 +4,18 @@
 
 <a name="top"></a>
 <div>
-<p align="center" >
+<p align="center">
   <a href="https://www.linkedin.com/in/angeloafsouza" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=linkedin" alt="linkedin"/> 
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=linkedin" alt="linkedin" style="font-size: 32px;"/> 
   </a>
   <a href="https://wakatime.com/@AAFS1981" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=wakatime" alt="wakatime"/>
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=wakatime" alt="wakatime" style="font-size: 32px;"/>
   </a>
   <a href="https://www.facebook.com/angelo.souza.3950/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=facebook" alt="facebook"/>
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=facebook" alt="facebook" style="font-size: 32px;"/>
   </a>
   <a href="https://www.instagram.com/angeloafdesouza/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img align="center" src="https://img.shields.io/badge/-angelosouza-05122A?style=flat&logo=instagram" alt="instagram" style="font-size: 32px;"/>
   </a>
 </p>
 </div>
