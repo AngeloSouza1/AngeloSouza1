@@ -160,7 +160,7 @@ Olá!
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🌟%20Social%20Rails-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>
-                    <td>Projeto de uma rede social, desenvolvido na plataforma DIO</td>
+                    <td>Projeto de uma "Rede Social", desenvolvido na plataforma DIO</td>
                     <td> Concluído</td>
                    </tr>
                 <tr>
