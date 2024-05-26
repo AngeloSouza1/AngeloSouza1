@@ -36,15 +36,13 @@
 </div>
 
 <div style="text-align: justify;">
-  <img align="right" alt="Coding" width="260" src="https://github.com/AngeloSouza1/tmp/blob/main/vista.jpg" >
- <br>
-  <p>Olá!</p>
+<br>
+Olá! 
+<br>  
+Sou um desenvolvedor back-end em início de carreira, dedicado a criar soluções robustas e eficientes para desafios complexos. Possuo experiência em linguagens de programação como Ruby, Rails e Java, além de trabalhar com bancos de dados relacionais e não relacionais, incluindo MySQL e PostgreSQL.
+<p>
+Meu objetivo é aplicar minhas habilidades técnicas em projetos desafiadores, contribuindo para o sucesso das equipes e organizações com as quais colaboro. Estou comprometido em manter-me atualizado com as últimas tendências e melhores práticas em desenvolvimento de software, buscando continuamente a excelência e a inovação em todas as minhas entregas. 
 
-  <p>Sou um desenvolvedor backend dedicado a aprimorar minhas habilidades e conhecimentos na construção de soluções eficientes para aplicativos web e mobile. Em minha jornada, estou constantemente buscando aprender e me aprimorar em programação e arquitetura de software, sempre em busca de inovação e qualidade em cada projeto em que me envolvo.</p>
-
-  <p>Estou comprometido em compreender profundamente as necessidades dos usuários e aplicar meu conhecimento para transformá-las em produtos de software robustos e escaláveis. Estou ansioso para continuar crescendo, enfrentando novos desafios e contribuindo para o avanço da tecnologia.</p>
-
-  <p>Estou em constante busca por conhecimento e aperfeiçoamento, prontamente disponível para enfrentar novos desafios e aplicar técnicas cada vez mais avançadas em meus projetos.</p>
 </div>
 
 <br>
