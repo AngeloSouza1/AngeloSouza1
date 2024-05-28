@@ -62,7 +62,7 @@ Olá!
   </a>
 <br>
 <br>
-<img align="left" src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/faca8732-44b6-4d15-9b20-65c8585e0fe7" alt="Profile" height="245" width="250" />
+<img align="left" src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/faca8732-44b6-4d15-9b20-65c8585e0fe7" alt="Profile" height="240" width="250" />
 
 ```
 ▉▉   │ OS ......... Linux Mint
