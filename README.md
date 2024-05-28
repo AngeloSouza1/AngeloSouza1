@@ -71,7 +71,7 @@ Olá!
   ▉▉ │ Terminal ... termite
 ▉▉   │ Frameworks . Rails | Bootstrap
   ▉▉ │ Linguagens.. Ruby | JavaScript | Java | C# | HTML | CSS
-▉▉   │ Tecnologias. GDScript | Linux Mint | Terminal | Git | GitHub | Gitflow | Fly.io | Render | Railsway | Docker | Mysql, Sqlite | Restiful
+▉▉   │ Tecnologias. GDScript | Linux Mint | Terminal | Git | GitHub | Gitflow | Fly.io | Render | Railway | Docker | Mysql, Sqlite | Restiful
   ▉▉ │ IDEs........ Jetbrains (RubyMine) | VSCode           
 ▉▉   │ Linkedin ... angeloafsouza
   ▉▉ │ Email ...... angeloafdesouza@gmail.com
