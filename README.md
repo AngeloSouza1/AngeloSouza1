@@ -55,82 +55,36 @@ Olá!
 
 <div style="display: flex; align-items: center;">
 
-![metricas](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/2469665c-6aa3-4478-83ff-47e3ea90cb88)
+![results](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/2b6ab605-8b2f-4ca2-9a56-370fb7aa8077)
 
   <a href="#top">
-    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
+    <img  src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
   </a>
+<br>
+<br>
+<img align="left" src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/faca8732-44b6-4d15-9b20-65c8585e0fe7" alt="Profile" height="245" width="250" />
+
+```
+▉▉   │ OS ......... Linux Mint
+  ▉▉ │ Shell ...... /usr/bin/zsh
+▉▉   │ WM ......... Xfwm4 
+  ▉▉ │ Terminal ... termite
+▉▉   │ Frameworks . Rails | Bootstrap
+  ▉▉ │ Linguagens.. Ruby | JavaScript | Java | C# | HTML | CSS
+▉▉   │ Tecnologias. GDScript | Linux Mint | Terminal | Git | GitHub | Gitflow | Fly.io | Render | Railsway | Docker | Mysql, Sqlite | Restiful
+  ▉▉ │ IDEs........ Jetbrains (RubyMine) | VSCode           
+▉▉   │ Linkedin ... angeloafsouza
+  ▉▉ │ Email ...... angeloafdesouza@gmail.com
+```
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngeloSouza1&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AngeloSouza1&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AngeloSouza1&theme=github_dark) |
+| :-: | :-: | :-: |
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngeloSouza1&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=AngeloSouza1&theme=github-dark&hide_border=true) |
+| :-: | :-: |
 </div>
 
-<br>
-  <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AngeloSouza1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-iota-five-91.vercel.app/api/top-langs/?username=AngeloSouza1&show_icons=true&theme=radical&layout=compact" />
- </div>
-
-<br>
-<br>
-<br>
-<div style="display: flex; align-items: center;">
- 
-![linguagens](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/65ee9547-cdba-4f7c-8cfd-fa9b664f263d)
-
-  <a href="#top">
-    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
-  </a>
-</div>
-
-<p align="center">
-  
-[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org/)
-[![Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=rails&logoColor=FFFFFF)](https://rubyonrails.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)](https://www.java.com/)
-[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Delphi](https://img.shields.io/badge/-Delphi-ED1F35?style=for-the-badge&logo=delphi&logoColor=FFFFFF)](https://www.embarcadero.com/products/delphi)
-[![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Assembly_language)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org/)
-</p>
-<br>
-<br>
-
-<div style="display: flex; align-items: center;">
-  
-  ![tecnologia](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/958557da-1c25-4f23-831d-83787b50efe5)
-
-
-  <a href="#top">
-    <img src="https://github.com/AngeloSouza1/tmp/blob/main/seta-para-cima.png" alt="Seta para cima" width="25">
-  </a>
-</div>
-
-<p align="center">
- 
-[![Linux](https://img.shields.io/badge/Linux-1976d2?style=for-the-badge&logo=Linux&logoColor=white)](https://www.linux.org/)
-[![Terminal](https://img.shields.io/badge/Terminal-388e3c?style=for-the-badge&logo=Linux&logoColor=white)](https://pt.wikipedia.org/wiki/Terminal_(inform%C3%A1tica))
-[![Git](https://img.shields.io/badge/Git-8e24aa?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-616161?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
-[![GitFlow](https://img.shields.io/badge/GitFlow-8e24aa?style=for-the-badge&logo=Git&logoColor=white)](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-[![Fly.io](https://img.shields.io/badge/Fly.io-f57c00?style=for-the-badge&logo=Fly.io&logoColor=white)](https://fly.io/)
-[![Docker](https://img.shields.io/badge/Docker-039be5?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-009688?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-3949ab?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![SQLite3](https://img.shields.io/badge/SQLite3-1a237e?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
-[![Restful](https://img.shields.io/badge/Restful-616161?style=for-the-badge&logo=restful&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-[![JetBrains](https://img.shields.io/badge/JetBrains-212121?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-0288d1?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Godot](https://img.shields.io/badge/Godot-5A5A5A?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
-
-
-</p>
-
-<br>
-<br>
 
 <div style="display: flex; align-items: center;">
   <br>
