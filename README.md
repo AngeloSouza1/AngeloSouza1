@@ -328,7 +328,7 @@ Olá!
       <td>02</td>
       <td>Programação-Estudo</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/Cursos-Desenvolvedor/tree/main/Curso-Onebit-Ruby">
+        <a href="https://github.com/AngeloSouza1/Cursos-Desenvolvedor">
            <img align="center" alt="TT1" src="https://img.shields.io/badge/-🏆%20%20Cursos%20-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>
