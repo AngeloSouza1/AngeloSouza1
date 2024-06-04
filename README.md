@@ -157,13 +157,13 @@ Olá!
                 </tr>
                 <tr>
                     <td>05</td>
-                    <td>Projeto-Estudo</td>
+                    <td>Projeto-OnebitCode</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/Emoji-Game">
-                            <img align="center" alt="TT4" src="https://img.shields.io/badge/-🎮😀%20Emoji Game-563D7C?style=for-the-badge&logoColor=white">
+                            <img align="center" alt="TT4" src="https://img.shields.io/badge/-🏆%20FoodApp-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
-                   <td>É um projeto construído em Rails que explora a integração entre JavaScript e Rails para criar uma interação baseado em emojis</td>
+                   <td>Projeto Final do Curso - Ruby on Rails </td>
                    <td> Concluído</td>
                 </tr>
                 <tr>
@@ -282,6 +282,17 @@ Olá!
                       <td>É uma aplicação web construída em Rails que gera senhas aleatórias</td>
                      <td>Concluído</td>   
                  </tr>
+                  <tr>
+                    <td>15</td>
+                    <td>Projeto-Estudo</td>
+                    <td align="left">
+                        <a href="https://github.com/AngeloSouza1/Emoji-Game">
+                            <img align="center" alt="TT4" src="https://img.shields.io/badge/-🎮😀%20Emoji Game-563D7C?style=for-the-badge&logoColor=white">
+                        </a>
+                    </td>    
+                   <td>É um projeto construído em Rails que explora a integração entre JavaScript e Rails para criar uma interação baseado em emojis</td>
+                   <td> Concluído</td>
+                </tr>
                  </table> 
             </div>        
 </details>
