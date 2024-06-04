@@ -124,7 +124,7 @@ Olá!
                    </tr>
                 <tr>
                     <td>02</td>
-                    <td>Projeto-Onebite</td>
+                    <td>Projeto-Onebitecode</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/spotcode"> 
                             <img align="center" alt="TT1" src="https://img.shields.io/badge/-🎵%20Spotcode-563D7C?style=for-the-badge&logoColor=white">
@@ -146,7 +146,7 @@ Olá!
                 </tr>
                 <tr>
                     <td>04</td>
-                    <td>Projeto-Onebite</td>
+                    <td>Projeto-Onebitecode</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/rails-blog">
                             <img align="center" alt="TT3" src="https://img.shields.io/badge/-  📰%20Blog%20Rails-563D7C?style=for-the-badge&logoColor=white">
