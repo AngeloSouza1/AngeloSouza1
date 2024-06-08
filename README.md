@@ -164,7 +164,7 @@ Olá!
                         </a>
                     </td>    
                    <td>Projeto Final do Curso - Ruby on Rails </td>
-                   <td> Em desenvolvimento</td>
+                   <td> Concluído</td>
                 </tr>
                 <tr>
                     <td>06</td>
