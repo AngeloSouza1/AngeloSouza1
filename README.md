@@ -160,7 +160,7 @@ Olá!
                     <td>Projeto-OnebitCode</td>
                     <td align="left">
                         <a href="https://github.com/AngeloSouza1/food-app">
-                            <img align="center" alt="TT4" src="https://img.shields.io/badge/-🏆%20FoodApp-563D7C?style=for-the-badge&logoColor=white">
+                            <img align="center" alt="TT4" src="https://img.shields.io/badge/-🍔%20FoodApp-563D7C?style=for-the-badge&logoColor=white">
                         </a>
                     </td>    
                    <td>Projeto Final do Curso - Ruby on Rails </td>
