@@ -399,8 +399,8 @@ Olá!
            <img align="center" alt="SS" src="https://img.shields.io/badge/-♦️%20Academia%20Ruby-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-      <td>Aplicação em Ruby, com a finalidade de cadastrar produtos e baixa da quantidade no estoque</td>
-      <td>Concluído</td>
+      <td>Aplicações em Ruby</td>
+      <td>Em desenvolvimento</td>
      </tr>
       <tr>
       <td>08</td>
