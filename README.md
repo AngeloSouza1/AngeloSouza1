@@ -405,12 +405,12 @@ Olá!
       <td>08</td>
       <td>Programação-Estudo</td>
       <td align="left">
-        <a href="https://github.com/AngeloSouza1/lista-estudantes">
-           <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
+        <a href="https://github.com/AngeloSouza1/Full-Cycle">
+           <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Full%20Cycle-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-      <td>Aplicação com relação de estudantes, visualizando seus dados através de uma lista dinâmica</td>
-      <td>Concluído</td>
+      <td>Criado para aplicar e demonstrar as habilidades adquiridas ao longo deste curso.</td>
+      <td>Em desenvolvimento</td>
       </tr>
      <tr>
       <td>09</td>
@@ -537,6 +537,18 @@ Olá!
       </td>   
          <td>Seleciona estilos do framework Bootstrap</td>
          <td>Concluído</td>
+       </tr>
+    <tr>
+      <td>19</td>
+      <td>Programação-Estudo</td>
+      <td align="left">
+        <a href="https://github.com/AngeloSouza1/lista-estudantes">
+           <img align="center" alt="SL" src="https://img.shields.io/badge/-📚%20Student%20List-563D7C?style=for-the-badge&logoColor=white">
+        </a>
+      </td>    
+      <td>Aplicação com relação de estudantes, visualizando seus dados através de uma lista dinâmica</td>
+      <td>Concluído</td>
+      </tr>
            </table> 
             </div>        
 </details>
