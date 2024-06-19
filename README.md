@@ -392,13 +392,13 @@ Olá!
      </tr>
      <tr>
       <td>07</td>
-      <td>Estudo-Acad_Ruby</td>
+      <td>Programação-Estudo</td>
       <td align="left">
         <a href="https://github.com/AngeloSouza1/academia-ruby">
            <img align="center" alt="SS" src="https://img.shields.io/badge/-♦️%20Academia%20Ruby-563D7C?style=for-the-badge&logoColor=white">
         </a>
       </td>    
-      <td>Aplicações em Ruby</td>
+      <td>Criado para aplicar e demonstrar as habilidades adquiridas ao longo deste curso.</td>
       <td>Em desenvolvimento</td>
      </tr>
       <tr>
