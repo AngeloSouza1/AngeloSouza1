@@ -103,7 +103,7 @@ Olá!
             <thead>
                 <tr align="left">
                     <th>ID</th>
-                    <th>Nome Projeto</th>
+                    <th>Detalhe - Projeto</th>
                     <th>Link Repositório</th>
                     <th>Descrição sobre o repositório</th>
                     <th>Status</th>
@@ -195,7 +195,7 @@ Olá!
                  <thead>
                       <tr align="left">
                               <th>ID</th>
-                              <th>Nome Projeto</th>
+                             <th>Detalhe - Projeto</th>
                               <th>Link Repositório</th>
                               <th>Descrição sobre o repositório</th>
                               <th>Status</th>
@@ -316,7 +316,7 @@ Olá!
   <thead>
     <tr align="left">
         <th>ID</th>
-        <th>Nome Projeto</th>
+       <th>Detalhe - Projeto</th>
         <th>Link Repositório</th>
         <th>Descrição sobre o repositório</th>
         <th>Status</th>
@@ -431,7 +431,7 @@ Olá!
                   <thead>
                       <tr align="left">
                               <th>ID</th>
-                              <th>Nome Projeto</th>
+                            <th>Detalhe - Projeto</th>
                               <th>Link Repositório</th>
                               <th>Descrição sobre o repositório</th>
                               <th>Status</th>
