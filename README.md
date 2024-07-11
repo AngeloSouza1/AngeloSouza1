@@ -1,6 +1,5 @@
 
 
-![Desenvolvedor back](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/003c2d91-e901-4b2f-bb60-4a6f9fd227f9)
 
 
 
