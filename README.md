@@ -1,11 +1,6 @@
 
 
 
-
-
-
-
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/17b292a6-a047-4334-af45-789de9ba1867" />
 &nbsp;&nbsp;&nbsp;
 
