@@ -1,4 +1,12 @@
 
+
+![Desenvolvedor back](https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/003c2d91-e901-4b2f-bb60-4a6f9fd227f9)
+
+
+
+
+
+
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/AngeloSouza1/AngeloSouza1/assets/104176076/17b292a6-a047-4334-af45-789de9ba1867" />
 &nbsp;&nbsp;&nbsp;
 
