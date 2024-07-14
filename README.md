@@ -86,7 +86,7 @@
 			<td valign="top">
 			<h3>List-Email-JR</h3>
 			<p>Essa aplicação permite que você gerencie uma lista de endereços de e-mail, com o objetivo de enviar um documento específico para esses destinatários</p>
-<!-- 			<a href="https://github.com/felipeAguiarCode/angular-playground"> -->
+<!-- 			<a href="#"> -->
 <!--  			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio"> -->
 			</a>
 			</td>
