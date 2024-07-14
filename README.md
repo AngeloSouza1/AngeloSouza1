@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img height="450em" src="https://github.com/user-attachments/assets/1ef82769-a0e9-4901-88d5-9a3a96c50890"/>
+  <img height="450em" src="https://github.com/user-attachments/assets/ef9964e3-27d6-431c-8fbf-33c69c18affc"/>
 </div>
+
 
 <h3 align="center">
   Desenvolvedor Backend 
