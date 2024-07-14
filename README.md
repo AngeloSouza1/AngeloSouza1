@@ -101,7 +101,7 @@
 			<h3>Social Rails</h3>
 			<p>Aplicação desenvolvida para criar uma rede social onde os usuários podem se conectar, compartilhar postagens e interagir um com o outro de forma eficiente e segura, utilizando o framework Ruby on Rails.</p>
         			<a href="https://github.com/AngeloSouza1/social-networking">
-            <img src="https://img.shields.io/badge/Ver%20Material-FF8C00?style=for-the-badge" alt="Acessar">
+        <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar">
           </td>
 		</tr>
 	</tbody>
