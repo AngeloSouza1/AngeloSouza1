@@ -20,7 +20,7 @@
 <div align="center">
 <div align="center">
  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AngeloSouza1&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AngeloSouza1&theme=earth&hide_border=true&border_radius=5.2&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
   <img width="41%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloSouza1&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
