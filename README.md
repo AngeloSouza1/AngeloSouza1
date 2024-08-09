@@ -3,7 +3,6 @@
   <img height="450em" src="https://github.com/user-attachments/assets/ef9964e3-27d6-431c-8fbf-33c69c18affc"/>
 </div>
 
-
 <h3 align="center">
   Desenvolvedor Backend 
 </h3>
