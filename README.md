@@ -72,12 +72,18 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px; background-color: #BB5C23; padding: 20px;">
-  <a href="https://github.com/AngeloSouza1/ListEmailJR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="180" width="600" style="border-radius: 20px;"/>
-  </a>
+<div style="text-align: center; background-color: #BB5C23; padding: 20px;">
+  <!-- Logo -->
+  <img src="URL_DA_SUA_IMAGEM" alt="Logo" style="width: 150px; border-radius: 10px; margin-bottom: 20px;"/>
 
+  <!-- Repositório -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://github.com/AngeloSouza1/ListEmailJR">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="180" width="600" style="border-radius: 20px;"/>
+    </a>
+  </div>
 </div>
+
 
 
 
