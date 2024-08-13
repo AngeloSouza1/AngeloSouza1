@@ -74,10 +74,10 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; background-color: #BB5C23; padding: 20px;">
   <a href="https://github.com/AngeloSouza1/ListEmailJR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="150" width="440" style="border-radius: 20px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="150" width="430" style="border-radius: 20px;"/>
   </a>
   <a href="https://github.com/AngeloSouza1/ListEmailJR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="150" width="440" style="border-radius: 20px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="150" width="430" style="border-radius: 20px;"/>
   </a>
 </div>
 
