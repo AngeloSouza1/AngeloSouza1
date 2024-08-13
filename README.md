@@ -72,57 +72,41 @@
 
 
 
-<div style="text-align: center; background-color: #BB5C23; padding: 20px;">
- <!-- Repositório -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://github.com/AngeloSouza1/ListEmailJR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="180" width="600" style="border-radius: 20px;"/>
-    </a>
+<table style="width: 100%; background-color: #BB5C23; padding: 20px;">
+  <tr>
+    <td style="width: 80px; text-align: center; vertical-align: top;">
       <a href="https://github.com/AngeloSouza1/ListEmailJR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="180" width="600" style="border-radius: 20px;"/>
-    </a>
-   </div>
-</div>
-
-
-
-
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/AngeloSouza1/ListEmailJR">
-       <img src="https://github.com/user-attachments/assets/25a90108-9511-46fa-9df9-9eeb2251a441" alt="Logo" style="width: 150px; height: auto;">
+        <img src="https://github.com/user-attachments/assets/25a90108-9511-46fa-9df9-9eeb2251a441" alt="Logo" style="width: 60px; margin-bottom: 20px;">
       </a>
-      </td>
-			<td valign="top">
-			<h3>List-Email-JR</h3>
-			<p>Essa aplicação permite que você gerencie uma lista de endereços de e-mail, com o objetivo de enviar um documento específico para esses destinatários.</p>
-			<a href="https://github.com/AngeloSouza1/ListEmailJR">
- 		      <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar">
-			</a>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/AngeloSouza1/social-networking">
-     <img src="https://github.com/user-attachments/assets/402b54e4-8e51-4e38-8dc9-42b2c6fac071" alt="Logo" style="width: 150px; height: auto;">
-      </a>
-      </td>
-			<td valign="top">
-			<h3>Social Rails</h3>
-			<p>Aplicação desenvolvida para criar uma rede social onde os usuários podem se conectar, compartilhar postagens e interagir um com o outro de forma eficiente e segura, utilizando o framework Ruby on Rails.</p>
-        			<a href="https://github.com/AngeloSouza1/social-networking">
+    </td>
+    <td style="vertical-align: top;">
+      <h3>List-Email-JR</h3>
+      <p>Essa aplicação permite que você gerencie uma lista de endereços de e-mail, com o objetivo de enviar um documento específico para esses destinatários.</p>
+      <a href="https://github.com/AngeloSouza1/ListEmailJR">
         <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar">
-          </td>
-		</tr>
-	</tbody>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 80px; text-align: center; vertical-align: top;">
+      <a href="https://github.com/AngeloSouza1/social-networking">
+        <img src="https://github.com/user-attachments/assets/402b54e4-8e51-4e38-8dc9-42b2c6fac071" alt="Logo" style="width: 60px; margin-bottom: 20px;">
+      </a>
+    </td>
+    <td style="vertical-align: top;">
+      <h3>Social Rails</h3>
+      <p>Aplicação desenvolvida para criar uma rede social onde os usuários podem se conectar, compartilhar postagens e interagir um com o outro de forma eficiente e segura, utilizando o framework Ruby on Rails.</p>
+      <a href="https://github.com/AngeloSouza1/social-networking">
+        <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar">
+      </a>
+    </td>
+  </tr>
 </table>
+
+
+
+
+
 
 <h3>Contato</h3>
 <div align="left">
