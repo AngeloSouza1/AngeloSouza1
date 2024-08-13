@@ -78,8 +78,7 @@
   <!-- Repositório -->
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/AngeloSouza1/ListEmailJR">
-  <!-- Logo -->
-  <img src="https://github.com/user-attachments/assets/25a90108-9511-46fa-9df9-9eeb2251a441" alt="Logo" style="width: 150px; border-radius: 10px; margin-bottom: 20px;"/>
+            <img src="https://github.com/user-attachments/assets/25a90108-9511-46fa-9df9-9eeb2251a441" alt="Logo" style="width: 60px; style="border-radius: 20px; margin-bottom: 20px;"/>
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="180" width="600" style="border-radius: 20px;"/>
     </a>
   </div>
