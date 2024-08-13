@@ -76,13 +76,12 @@
   <!-- Repositório -->
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/AngeloSouza1/ListEmailJR">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="200" width="500" style="border-radius: 20px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=ListEmailJR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20" height="200" width="600" style="border-radius: 20px;"/>
     </a>
-    </div>
+    <!-- Badge para Ruby on Rails -->
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-5C3035?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails Badge" style="height: 200px;"/>
+  </div>
 </div>
-
-
-
 
 
   
