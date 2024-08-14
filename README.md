@@ -70,22 +70,36 @@
 
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 
-<!-- Pin Centralizado -->
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/AngeloSouza1/ListEmailJR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=list-email-JR&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20&line_height=20" height="180" width="600" style="border-radius: 20px;"/>
-  </a>
-</div>
-
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/AngeloSouza1/social-networking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngeloSouza1&repo=social-networking&title_color=FFD700&text_color=FFFFFF&bg_color=BB5C23&border_color=9A4D1E&icon_color=333333&border_radius=20&line_height=20" height="180" width="600" style="border-radius: 20px;"/>
-  </a>
-</div>
-<br>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/56c1bb12-273e-4bcd-b2ac-75bb8914083d" alt="Desenvolvedor_backend__1_-removebg" >  
- </div>
+<table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px;">
+  <tr>
+    <td style="width: 80px; text-align: center; vertical-align: top; padding: 10px; border: 1px solid #9A4D1E;">
+      <a href="https://github.com/AngeloSouza1/ListEmailJR">
+        <img src="https://github.com/user-attachments/assets/25a90108-9511-46fa-9df9-9eeb2251a441" alt="Logo" style="width: 60px; margin-bottom: 10px;">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #9A4D1E;">
+      <h3 style="margin: 0; color: #FFD700;">List-Email-JR</h3>
+      <p style="margin: 5px 0; color: #FFFFFF;">Essa aplicação permite que você gerencie uma lista de endereços de e-mail, com o objetivo de enviar um documento específico para esses destinatários.</p>
+      <a href="https://github.com/AngeloSouza1/ListEmailJR">
+        <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 80px; text-align: center; vertical-align: top; padding: 10px; border: 1px solid #9A4D1E;">
+      <a href="https://github.com/AngeloSouza1/social-networking">
+        <img src="https://github.com/user-attachments/assets/402b54e4-8e51-4e38-8dc9-42b2c6fac071" alt="Logo" style="width: 60px; margin-bottom: 10px;">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #9A4D1E;">
+      <h3 style="margin: 0; color: #FFD700;">Social Rails</h3>
+      <p style="margin: 5px 0; color: #FFFFFF;">Aplicação desenvolvida para criar uma rede social onde os usuários podem se conectar, compartilhar postagens e interagir um com o outro de forma eficiente e segura, utilizando o framework Ruby on Rails.</p>
+      <a href="https://github.com/AngeloSouza1/social-networking">
+        <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
