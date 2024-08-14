@@ -19,7 +19,9 @@
 <div align="center">
 <div align="center">
  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AngeloSouza1&theme=ads-juicy-fresh&hide_border=true&border_radius=5.2&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=AngeloSouza1&theme=transparent&hide_border=true&border_radius=5.2&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+</a>
 
 
  </div>
