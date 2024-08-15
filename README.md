@@ -72,7 +72,19 @@
 
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
-  <tr>
+    <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/b143eddc-ec0f-4079-b42c-d3159b8375b8" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Api-Go</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Este projeto é uma aplicação web simples para gerenciar clientes. A aplicação permite adicionar, editar, visualizar e deletar clientes, com suporte para persistência de dados em arquivo JSON.</p>
+        <a href="https://github.com/AngeloSouza1/api-go">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar" style="border-radius: 5px;">
+        </a>
+      </div>
+    </td>
+  </tr>
+   <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
       <img src="https://github.com/user-attachments/assets/25a90108-9511-46fa-9df9-9eeb2251a441" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
@@ -97,10 +109,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
 
 
 <h3>Contato</h3>
