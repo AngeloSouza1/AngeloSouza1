@@ -92,7 +92,7 @@
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Api-Go</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Este projeto é uma aplicação web simples para gerenciar clientes. A aplicação permite adicionar, editar, visualizar e deletar clientes, com suporte para persistência de dados em arquivo JSON.</p>
         <a href="https://github.com/AngeloSouza1/api-go">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar" style="border-radius: 5px;">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
     </td>
@@ -105,7 +105,7 @@
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">List-Email-JR</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Essa aplicação permite que você gerencie uma lista de endereços de e-mail, com o objetivo de enviar um documento específico para esses destinatários.</p>
         <a href="https://github.com/AngeloSouza1/ListEmailJR">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar" style="border-radius: 5px;">
+            <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
     </td>
@@ -117,7 +117,7 @@
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Social Rails</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Aplicação desenvolvida para criar uma rede social onde os usuários podem se conectar, compartilhar postagens e interagir um com o outro de forma eficiente e segura, utilizando o framework Ruby on Rails.</p>
         <a href="https://github.com/AngeloSouza1/social-networking">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar" style="border-radius: 5px;">
+           <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
     </td>
