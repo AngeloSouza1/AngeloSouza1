@@ -80,8 +80,8 @@
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">QuizApp</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">QuizApp é uma plataforma educacional que gamifica o aprendizado, usando quizzes interativos, pontos e medalhas para motivar os usuários a estudar de forma divertida.</p>
-        <a href="https://github.com/AngeloSouza1/QuizApp">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge" alt="Acessar" style="border-radius: 5px;">
+         <a href="https://github.com/AngeloSouza1/QuizApp">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
     </td>
