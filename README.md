@@ -70,11 +70,12 @@
  </div>
 
 
+
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
     <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/b143eddc-ec0f-4079-b42c-d3159b8375b8" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+     <img src="https://github.com/user-attachments/assets/f055fd41-2bcd-4553-8ae1-fafb62a2ff4f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Api-Go</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Este projeto é uma aplicação web simples para gerenciar clientes. A aplicação permite adicionar, editar, visualizar e deletar clientes, com suporte para persistência de dados em arquivo JSON.</p>
@@ -83,10 +84,11 @@
         </a>
       </div>
     </td>
+
   </tr>
    <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-      <img src="https://github.com/user-attachments/assets/25a90108-9511-46fa-9df9-9eeb2251a441" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <img src="https://github.com/user-attachments/assets/76c63c59-d8bf-4504-ae0e-6d72049cf295" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">List-Email-JR</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Essa aplicação permite que você gerencie uma lista de endereços de e-mail, com o objetivo de enviar um documento específico para esses destinatários.</p>
@@ -98,7 +100,7 @@
   </tr>
   <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-      <img src="https://github.com/user-attachments/assets/402b54e4-8e51-4e38-8dc9-42b2c6fac071" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+       <img src="https://github.com/user-attachments/assets/727d40f5-a9ae-4940-8f81-5ccfb69ac5aa" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Social Rails</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Aplicação desenvolvida para criar uma rede social onde os usuários podem se conectar, compartilhar postagens e interagir um com o outro de forma eficiente e segura, utilizando o framework Ruby on Rails.</p>
