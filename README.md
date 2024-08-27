@@ -74,7 +74,18 @@
 
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
-      <tr>
+        <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/0377e105-80eb-4984-b3da-e6db98dda863" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+     <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Gem-CPF</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">O gem CpfUtils é uma ferramenta prática para validação e formatação de CPFs brasileiros. Ela assegura a integridade e conformidade dos dados, sendo ideal para aplicações que trabalham com informações de CPF no Brasil.</p>
+         <a href="https://github.com/AngeloSouza1/cpf_utils">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
+        </a>
+      </div>
+    </td>
+  <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/2d230c3c-288b-4f38-b38c-393e9c3063f4" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
@@ -85,6 +96,7 @@
         </a>
       </div>
     </td>
+      </tr>
   <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/f055fd41-2bcd-4553-8ae1-fafb62a2ff4f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
