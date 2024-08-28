@@ -84,7 +84,6 @@
           <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
-
     </td>
       </tr>     
     <tr>
