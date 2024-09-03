@@ -76,6 +76,18 @@
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
         <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/71fb4338-d1a0-4379-ac3a-e2be55ea09f2" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Time-Pararel</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">É uma aplicação web que automaticamente organiza e equilibra times de futebol, garantindo formações justas e competitivas com base nas pontuações e disponibilidade dos jogadores.</p>
+         <a href="https://github.com/AngeloSouza1/Time-Pararel">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
+        </a>
+      </div>
+    </td>
+      </tr>     
+  <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/e7ded6f5-e53b-4af3-8ce5-c3830d6f718f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Gem-Estados-Brasileiros</h3>
