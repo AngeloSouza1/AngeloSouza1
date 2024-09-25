@@ -74,6 +74,18 @@
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
         <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/5c1e5113-c827-48cc-bed0-8f8c12817b41" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">CateqApp</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">É um app em Rails para catequese. Catequistas gerenciam aulas, postagens e enviam mensagens. Catequisandos visualizam o conteúdo e trocam mensagens.</p>
+         <a href="https://github.com/AngeloSouza1/CateqApp">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
+        </a>
+      </div>
+    </td>
+      </tr>    
+  <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/71fb4338-d1a0-4379-ac3a-e2be55ea09f2" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Time-Pararel</h3>
