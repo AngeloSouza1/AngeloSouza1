@@ -70,8 +70,6 @@
  </div>
 
 
-
-
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
         <tr>
