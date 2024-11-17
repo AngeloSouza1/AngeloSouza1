@@ -70,9 +70,22 @@
  </div>
 
 
+
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
-   <tr>
+     <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/bcdb56fb-79ca-40fc-968b-4358b6caec6e" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Dashboard-Clima</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">O Dashboard Climático é uma aplicação web em Python que exibe a previsão do tempo e condições atuais de uma cidade, com visual intuitivo e estilizado para fácil acompanhamento.</p>
+         <a href="https://github.com/AngeloSouza1/Dashboard-Clima">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
+        </a>
+      </div>
+    </td>
+      </tr>     
+    <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/5c1e5113-c827-48cc-bed0-8f8c12817b41" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
