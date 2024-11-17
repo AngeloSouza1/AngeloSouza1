@@ -79,7 +79,7 @@
      <img src="https://github.com/user-attachments/assets/ef189be9-194f-435e-b1f1-a949dd0900e7" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Dashboard-Clima</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">O Dashboard Climático é uma aplicação web em Python que exibe a previsão do tempo e condições atuais de uma cidade, com visual intuitivo e estilizado para fácil acompanhamento.</p>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">O Dashboard-Clima é uma aplicação web em Python que exibe a previsão do tempo e condições atuais de uma cidade, com visual intuitivo e estilizado para fácil acompanhamento.</p>
          <a href="https://github.com/AngeloSouza1/Dashboard-Clima">
           <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
