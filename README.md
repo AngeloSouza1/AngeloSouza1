@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,bash,c,python,ruby,go,javad&theme=light" alt="Linguagens de Programação" />
 
 <!-- Frameworks e Bibliotecas -->
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,rails,godot,ai,webpack&theme=light" alt="Frameworks e Bibliotecas" />
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,rails,godot,ai&theme=light" alt="Frameworks e Bibliotecas" />
 
 <!-- Ferramentas de Integração e Deploy -->
 <img src="https://skillicons.dev/icons?i=docker,powershell,yarn,heroku&theme=light" alt="Ferramentas de Integração e Deploy" />
