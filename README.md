@@ -80,7 +80,7 @@
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Amigo Oculto</h3>
         <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Esta aplicação intuitiva facilita a organização de eventos de amigo oculto, oferecendo funcionalidades completas como criação de eventos, registro automatizado de participantes, sorteio de pares e envio de notificações por e-mail. Com uma interface moderna e amigável, o sistema simplifica todas as etapas do processo, garantindo uma experiência eficiente e sem complicações para os organizadores e participantes.</p>
-         <a href="https://github.com/AngeloSouza1/DesafiosOBC">
+         <a href="https://github.com/AngeloSouza1/Amigo-Secreto-OBC">
           <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
