@@ -76,6 +76,18 @@
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
      <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/c1f63e33-328f-4aec-8e00-d342f883f657" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Amigo Oculto</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Esta aplicação intuitiva facilita a organização de eventos de amigo oculto, oferecendo funcionalidades completas como criação de eventos, registro automatizado de participantes, sorteio de pares e envio de notificações por e-mail. Com uma interface moderna e amigável, o sistema simplifica todas as etapas do processo, garantindo uma experiência eficiente e sem complicações para os organizadores e participantes.</p>
+         <a href="https://github.com/AngeloSouza1/DesafiosOBC">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
+        </a>
+      </div>
+    </td>
+      </tr>    
+   <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/ef189be9-194f-435e-b1f1-a949dd0900e7" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Dashboard-Clima</h3>
