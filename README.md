@@ -74,7 +74,18 @@
 
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
-    <tr>
+     <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/113874da-d3bb-46ed-a424-e091107a2f9c" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+     <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Pagamento-Gateway</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">O Pagamento Gateway permite que usuários realizem pagamentos por meio de diferentes métodos, enquanto administradores podem visualizar e gerenciar os pagamentos realizados. A interface intuitiva facilita a navegação e proporciona uma experiência prática e eficiente para todos os envolvidos.</p>
+         <a https://github.com/AngeloSouza1/Pagamento-Gateway">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
+        </a>
+      </div>
+    </td>  
+  <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/7987a27f-066f-47da-88e3-608d4262465f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
