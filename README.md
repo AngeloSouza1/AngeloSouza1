@@ -74,6 +74,18 @@
 
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
+    <tr>
+    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
+     <img src="https://github.com/user-attachments/assets/7987a27f-066f-47da-88e3-608d4262465f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <div>
+        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">WhatsAutomat</h3>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Este projeto foi criado para explorar o agendamento e envio automatizado de mensagens via WhatsApp. Ele combina várias tecnologias para oferecer uma experiência funcional, prática e com foco no aprendizado.</p>
+         <a href="https://github.com/AngeloSouza1/WhatAutomat">
+          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
+        </a>
+      </div>
+    </td>
+      </tr>  
      <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
      <img src="https://github.com/user-attachments/assets/c1f63e33-328f-4aec-8e00-d342f883f657" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
