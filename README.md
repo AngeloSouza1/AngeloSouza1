@@ -73,152 +73,40 @@
 
 
 ## 📌 &nbsp;Repositórios de Projetos Pessoais
+
 <table style="width: 100%; background-color: #BB5C23; border-collapse: collapse; padding: 20px; border-radius: 10px;">
-     <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/113874da-d3bb-46ed-a424-e091107a2f9c" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-     <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Pagamento-Gateway</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">O Pagamento Gateway permite que usuários realizem pagamentos por meio de diferentes métodos, enquanto administradores podem visualizar e gerenciar os pagamentos realizados. A interface intuitiva facilita a navegação e proporciona uma experiência prática e eficiente para todos os envolvidos.</p>
-         <a href="https://github.com/AngeloSouza1/Pagamento-Gateway">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>  
+
   <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/7987a27f-066f-47da-88e3-608d4262465f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">WhatsAutomat</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Este projeto foi criado para explorar o agendamento e envio automatizado de mensagens via WhatsApp. Ele combina várias tecnologias para oferecer uma experiência funcional, prática e com foco no aprendizado.</p>
-         <a href="https://github.com/AngeloSouza1/WhatAutomat">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-      </tr>  
-     <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/c1f63e33-328f-4aec-8e00-d342f883f657" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <img src="https://github.com/user-attachments/assets/c1f63e33-328f-4aec-8e00-d342f883f657" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Amigo Oculto</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Esta aplicação intuitiva facilita a organização de eventos de amigo oculto, oferecendo funcionalidades completas como criação de eventos, registro automatizado de participantes, sorteio de pares e envio de notificações por e-mail. Com uma interface moderna e amigável, o sistema simplifica todas as etapas do processo, garantindo uma experiência eficiente e sem complicações para os organizadores e participantes.</p>
-         <a href="https://github.com/AngeloSouza1/Amigo-Secreto-OBC">
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">
+          Esta aplicação intuitiva facilita a organização de eventos de amigo oculto, oferecendo funcionalidades completas como criação de eventos, registro automatizado de participantes, sorteio de pares e envio de notificações por e-mail. Com uma interface moderna e amigável, o sistema simplifica todas as etapas do processo, garantindo uma experiência eficiente e sem complicações para os organizadores e participantes.
+        </p>
+        <a href="https://github.com/AngeloSouza1/Amigo-Secreto-OBC">
           <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
     </td>
-      </tr>    
-   <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/ef189be9-194f-435e-b1f1-a949dd0900e7" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Dashboard-Clima</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">O Dashboard-Clima é uma aplicação web em Python que exibe a previsão do tempo e condições atuais de uma cidade, com visual intuitivo e estilizado para fácil acompanhamento.</p>
-         <a href="https://github.com/AngeloSouza1/Dashboard-Clima">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-      </tr>     
-    <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/5c1e5113-c827-48cc-bed0-8f8c12817b41" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">CateqApp</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">É um app em Rails para catequese. Catequistas gerenciam aulas, postagens e enviam mensagens. Catequisandos visualizam o conteúdo e trocam mensagens.</p>
-         <a href="https://github.com/AngeloSouza1/CateqApp">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-      </tr>    
+  </tr>
+
   <tr>
     <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/71fb4338-d1a0-4379-ac3a-e2be55ea09f2" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Time-Pararel</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">É uma aplicação web que automaticamente organiza e equilibra times de futebol, garantindo formações justas e competitivas com base nas pontuações e disponibilidade dos jogadores.</p>
-         <a href="https://github.com/AngeloSouza1/Time-Pararel">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-      </tr>     
-  <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/e7ded6f5-e53b-4af3-8ce5-c3830d6f718f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Gem-Estados-Brasileiros</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">A gem "EstadosBrasileiros" fornece as siglas dos 26 estados e do Distrito Federal.</p>
-         <a href="https://github.com/AngeloSouza1/estado-brasileiros-gem">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-      </tr>     
-    <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/df878ef2-fafc-4933-a019-be745666d81f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Gem-CPF</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">É uma ferramenta prática para validação e formatação de CPFs brasileiros. Ela assegura a integridade e conformidade dos dados, sendo ideal para aplicações que trabalham com informações de CPF no Brasil.</p>
-         <a href="https://github.com/AngeloSouza1/cpf_utils">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-      </tr>   
-  <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/2d230c3c-288b-4f38-b38c-393e9c3063f4" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">QuizApp</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">QuizApp é uma plataforma educacional que gamifica o aprendizado, usando quizzes interativos, pontos e medalhas para motivar os usuários a estudar de forma divertida.</p>
-         <a href="https://github.com/AngeloSouza1/QuizApp">
-          <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-  <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-     <img src="https://github.com/user-attachments/assets/f055fd41-2bcd-4553-8ae1-fafb62a2ff4f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
+      <img src="https://github.com/user-attachments/assets/f055fd41-2bcd-4553-8ae1-fafb62a2ff4f" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
       <div>
         <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Api-Go</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Este projeto é uma aplicação web simples para gerenciar clientes. A aplicação permite adicionar, editar, visualizar e deletar clientes, com suporte para persistência de dados em arquivo JSON.</p>
+        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">
+          Este projeto é uma aplicação web simples para gerenciar clientes. A aplicação permite adicionar, editar, visualizar e deletar clientes, com suporte para persistência de dados em arquivo JSON.
+        </p>
         <a href="https://github.com/AngeloSouza1/api-go">
           <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
         </a>
       </div>
     </td>
+  </tr>
 
-  </tr>
-   <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-      <img src="https://github.com/user-attachments/assets/76c63c59-d8bf-4504-ae0e-6d72049cf295" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">List-Email-JR</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Essa aplicação permite que você gerencie uma lista de endereços de e-mail, com o objetivo de enviar um documento específico para esses destinatários.</p>
-        <a href="https://github.com/AngeloSouza1/ListEmailJR">
-            <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top; padding: 15px; border: none; display: flex; align-items: center;">
-       <img src="https://github.com/user-attachments/assets/727d40f5-a9ae-4940-8f81-5ccfb69ac5aa" alt="Logo" style="width: 60px; margin-right: 15px; border-radius: 50%;">
-      <div>
-        <h3 style="margin: 0; color: #FFD700; font-family: Arial, sans-serif;">Social Rails</h3>
-        <p style="margin: 10px 0; color: #FFFFFF; font-family: Arial, sans-serif;">Aplicação desenvolvida para criar uma rede social onde os usuários podem se conectar, compartilhar postagens e interagir um com o outro de forma eficiente e segura, utilizando o framework Ruby on Rails.</p>
-        <a href="https://github.com/AngeloSouza1/social-networking">
-           <img src="https://img.shields.io/badge/Ver%20Material-006400?style=for-the-badge&labelColor=006400&logo=github&logoColor=white" alt="Acessar">
-        </a>
-      </div>
-    </td>
-  </tr>
 </table>
-
 
 <h3>Contato</h3>
 <div align="left">
